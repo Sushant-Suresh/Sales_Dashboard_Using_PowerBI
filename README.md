@@ -26,5 +26,9 @@ This repository contains a comprehensive sales analysis using Power BI. The proj
   - Monthly and yearly revenue aggregates from 2018-2020.
 
 ## Steps Performed
-1. **Data Import:** 
-  
+1. **Data Import:** Imported raw data from .CSV files to Power BI for analysis.
+2. **Transformation:** Utilized Power Query for data transformation, ensuring clean, filtered and structured datasets.
+3. **Data Modelling:** Establisded relation between tables having inconsistent names for common columns.
+4. **Creation of Calendar Table:** Created a calendar table to perform analytics with dates.
+5. **DAX Magic:** Employed DAX functions to derive additional measures.
+6. **KPI and Charts:** Created multiple Key Performance Indicators (KPIs) and charts for a comprehensive view of sales dynamics.
