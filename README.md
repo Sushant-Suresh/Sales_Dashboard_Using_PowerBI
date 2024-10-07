@@ -32,3 +32,8 @@ This repository contains a comprehensive sales analysis using Power BI. The proj
 4. **Creation of Calendar Table:** Created a calendar table to perform analytics with dates.
 5. **DAX Magic:** Employed DAX functions to derive additional measures.
 6. **KPI and Charts:** Created multiple Key Performance Indicators (KPIs) and charts for a comprehensive view of sales dynamics.
+
+## Dependencies
+
+- Microsoft Excel
+- Microsoft PowerBI
