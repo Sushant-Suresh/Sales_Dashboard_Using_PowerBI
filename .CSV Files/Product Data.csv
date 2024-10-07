@@ -1,0 +1,294 @@
+ProductID,Name,ProductNumber,MakeFlag,Color,SafetyStockLevel,ReorderPoint,StandardCost,ListPrice,Size,Size Unit,Weight Unit,Weight,Days Manufacture,Product Model,Sub Category,Category,ProductLine,Class,Style,Category ID,SellStartDate,DiscontinuedDate
+707,"Sport-100 Helmet, Red",HL-U509-R,0,Red,4,3,$13.09,$34.99,,,,,0,Sport-100,Helmets,Accessories,S ,,,31,01-07-2001,
+708,"Sport-100 Helmet, Black",HL-U509,0,Black,4,3,$13.09,$34.99,,,,,0,Sport-100,Helmets,Accessories,S ,,,31,01-07-2001,
+709,"Mountain Bike Socks, M",SO-B909-M,0,White,4,3,$3.40,$9.50,M,,,,0,Mountain Bike Socks,Socks,Clothing,M ,,U ,23,01-07-2001,30-06-2002
+710,"Mountain Bike Socks, L",SO-B909-L,0,White,4,3,$3.40,$9.50,L,,,,0,Mountain Bike Socks,Socks,Clothing,M ,,U ,23,01-07-2001,30-06-2002
+711,"Sport-100 Helmet, Blue",HL-U509-B,0,Blue,4,3,$13.09,$34.99,,,,,0,Sport-100,Helmets,Accessories,S ,,,31,01-07-2001,
+712,AWC Logo Cap,CA-1098,0,Multi,4,3,$6.92,$8.99,,,,,0,Cycling Cap,Caps,Clothing,S ,,U ,19,01-07-2001,
+713,"Long-Sleeve Logo Jersey, S",LJ-0192-S,0,Multi,4,3,$38.49,$49.99,S,,,,0,Long-Sleeve Logo Jersey,Jerseys,Clothing,S ,,U ,21,01-07-2001,
+714,"Long-Sleeve Logo Jersey, M",LJ-0192-M,0,Multi,4,3,$38.49,$49.99,M,,,,0,Long-Sleeve Logo Jersey,Jerseys,Clothing,S ,,U ,21,01-07-2001,
+715,"Long-Sleeve Logo Jersey, L",LJ-0192-L,0,Multi,4,3,$38.49,$49.99,L,,,,0,Long-Sleeve Logo Jersey,Jerseys,Clothing,S ,,U ,21,01-07-2001,
+716,"Long-Sleeve Logo Jersey, XL",LJ-0192-X,0,Multi,4,3,$38.49,$49.99,XL,,,,0,Long-Sleeve Logo Jersey,Jerseys,Clothing,S ,,U ,21,01-07-2001,
+717,"HL Road Frame - Red, 62",FR-R92R-62,-1,Red,500,375,$868.63,"$1,431.50",62,CM ,LB ,2.3,1,HL Road Frame,Road Frames,Components,R ,H ,U ,14,01-07-2001,
+718,"HL Road Frame - Red, 44",FR-R92R-44,-1,Red,500,375,$868.63,"$1,431.50",44,CM ,LB ,2.12,1,HL Road Frame,Road Frames,Components,R ,H ,U ,14,01-07-2001,
+719,"HL Road Frame - Red, 48",FR-R92R-48,-1,Red,500,375,$868.63,"$1,431.50",48,CM ,LB ,2.16,1,HL Road Frame,Road Frames,Components,R ,H ,U ,14,01-07-2001,
+720,"HL Road Frame - Red, 52",FR-R92R-52,-1,Red,500,375,$868.63,"$1,431.50",52,CM ,LB ,2.2,1,HL Road Frame,Road Frames,Components,R ,H ,U ,14,01-07-2001,
+721,"HL Road Frame - Red, 56",FR-R92R-56,-1,Red,500,375,$868.63,"$1,431.50",56,CM ,LB ,2.24,1,HL Road Frame,Road Frames,Components,R ,H ,U ,14,01-07-2001,
+722,"LL Road Frame - Black, 58",FR-R38B-58,-1,Black,500,375,$204.63,$337.22,58,CM ,LB ,2.46,1,LL Road Frame,Road Frames,Components,R ,L ,U ,14,01-07-2001,
+723,"LL Road Frame - Black, 60",FR-R38B-60,-1,Black,500,375,$204.63,$337.22,60,CM ,LB ,2.48,1,LL Road Frame,Road Frames,Components,R ,L ,U ,14,01-07-2001,
+724,"LL Road Frame - Black, 62",FR-R38B-62,-1,Black,500,375,$204.63,$337.22,62,CM ,LB ,2.5,1,LL Road Frame,Road Frames,Components,R ,L ,U ,14,01-07-2001,
+725,"LL Road Frame - Red, 44",FR-R38R-44,-1,Red,500,375,$187.16,$337.22,44,CM ,LB ,2.32,1,LL Road Frame,Road Frames,Components,R ,L ,U ,14,01-07-2001,30-06-2003
+726,"LL Road Frame - Red, 48",FR-R38R-48,-1,Red,500,375,$187.16,$337.22,48,CM ,LB ,2.36,1,LL Road Frame,Road Frames,Components,R ,L ,U ,14,01-07-2001,30-06-2003
+727,"LL Road Frame - Red, 52",FR-R38R-52,-1,Red,500,375,$187.16,$337.22,52,CM ,LB ,2.4,1,LL Road Frame,Road Frames,Components,R ,L ,U ,14,01-07-2001,30-06-2003
+728,"LL Road Frame - Red, 58",FR-R38R-58,-1,Red,500,375,$187.16,$337.22,58,CM ,LB ,2.46,1,LL Road Frame,Road Frames,Components,R ,L ,U ,14,01-07-2001,30-06-2003
+729,"LL Road Frame - Red, 60",FR-R38R-60,-1,Red,500,375,$187.16,$337.22,60,CM ,LB ,2.48,1,LL Road Frame,Road Frames,Components,R ,L ,U ,14,01-07-2001,30-06-2003
+730,"LL Road Frame - Red, 62",FR-R38R-62,-1,Red,500,375,$187.16,$337.22,62,CM ,LB ,2.5,1,LL Road Frame,Road Frames,Components,R ,L ,U ,14,01-07-2001,30-06-2003
+731,"ML Road Frame - Red, 44",FR-R72R-44,-1,Red,500,375,$352.14,$594.83,44,CM ,LB ,2.22,1,ML Road Frame,Road Frames,Components,R ,M ,U ,14,01-07-2001,30-06-2002
+732,"ML Road Frame - Red, 48",FR-R72R-48,-1,Red,500,375,$352.14,$594.83,48,CM ,LB ,2.26,1,ML Road Frame,Road Frames,Components,R ,M ,U ,14,01-07-2001,30-06-2002
+733,"ML Road Frame - Red, 52",FR-R72R-52,-1,Red,500,375,$352.14,$594.83,52,CM ,LB ,2.3,1,ML Road Frame,Road Frames,Components,R ,M ,U ,14,01-07-2001,30-06-2002
+734,"ML Road Frame - Red, 58",FR-R72R-58,-1,Red,500,375,$352.14,$594.83,58,CM ,LB ,2.36,1,ML Road Frame,Road Frames,Components,R ,M ,U ,14,01-07-2001,30-06-2002
+735,"ML Road Frame - Red, 60",FR-R72R-60,-1,Red,500,375,$352.14,$594.83,60,CM ,LB ,2.38,1,ML Road Frame,Road Frames,Components,R ,M ,U ,14,01-07-2001,30-06-2002
+736,"LL Road Frame - Black, 44",FR-R38B-44,-1,Black,500,375,$204.63,$337.22,44,CM ,LB ,2.32,1,LL Road Frame,Road Frames,Components,R ,L ,U ,14,01-07-2001,
+737,"LL Road Frame - Black, 48",FR-R38B-48,-1,Black,500,375,$204.63,$337.22,48,CM ,LB ,2.36,1,LL Road Frame,Road Frames,Components,R ,L ,U ,14,01-07-2001,
+738,"LL Road Frame - Black, 52",FR-R38B-52,-1,Black,500,375,$204.63,$337.22,52,CM ,LB ,2.4,1,LL Road Frame,Road Frames,Components,R ,L ,U ,14,01-07-2001,
+739,"HL Mountain Frame - Silver, 42",FR-M94S-42,-1,Silver,500,375,$747.20,"$1,364.50",42,CM ,LB ,2.72,1,HL Mountain Frame,Mountain Frames,Components,M ,H ,U ,12,01-07-2001,
+740,"HL Mountain Frame - Silver, 44",FR-M94S-44,-1,Silver,500,375,$706.81,"$1,364.50",44,CM ,LB ,2.76,1,HL Mountain Frame,Mountain Frames,Components,M ,H ,U ,12,01-07-2001,30-06-2002
+741,"HL Mountain Frame - Silver, 48",FR-M94S-52,-1,Silver,500,375,$706.81,"$1,364.50",48,CM ,LB ,2.8,1,HL Mountain Frame,Mountain Frames,Components,M ,H ,U ,12,01-07-2001,30-06-2002
+742,"HL Mountain Frame - Silver, 46",FR-M94S-46,-1,Silver,500,375,$747.20,"$1,364.50",46,CM ,LB ,2.84,1,HL Mountain Frame,Mountain Frames,Components,M ,H ,U ,12,01-07-2001,
+743,"HL Mountain Frame - Black, 42",FR-M94B-42,-1,Black,500,375,$739.04,"$1,349.60",42,CM ,LB ,2.72,1,HL Mountain Frame,Mountain Frames,Components,M ,H ,U ,12,01-07-2001,
+744,"HL Mountain Frame - Black, 44",FR-M94B-44,-1,Black,500,375,$699.09,"$1,349.60",44,CM ,LB ,2.76,1,HL Mountain Frame,Mountain Frames,Components,M ,H ,U ,12,01-07-2001,30-06-2002
+745,"HL Mountain Frame - Black, 48",FR-M94B-48,-1,Black,500,375,$699.09,"$1,349.60",48,CM ,LB ,2.8,1,HL Mountain Frame,Mountain Frames,Components,M ,H ,U ,12,01-07-2001,30-06-2002
+746,"HL Mountain Frame - Black, 46",FR-M94B-46,-1,Black,500,375,$739.04,"$1,349.60",46,CM ,LB ,2.84,1,HL Mountain Frame,Mountain Frames,Components,M ,H ,U ,12,01-07-2001,
+747,"HL Mountain Frame - Black, 38",FR-M94B-38,-1,Black,500,375,$739.04,"$1,349.60",38,CM ,LB ,2.68,2,HL Mountain Frame,Mountain Frames,Components,M ,H ,U ,12,01-07-2001,
+748,"HL Mountain Frame - Silver, 38",FR-M94S-38,-1,Silver,500,375,$747.20,"$1,364.50",38,CM ,LB ,2.68,2,HL Mountain Frame,Mountain Frames,Components,M ,H ,U ,12,01-07-2001,
+749,"Road-150 Red, 62",BK-R93R-62,-1,Red,100,75,"$2,171.29","$3,578.27",62,CM ,LB ,15,4,Road-150,Road Bikes,Bikes,R ,H ,U ,2,01-07-2001,30-06-2002
+750,"Road-150 Red, 44",BK-R93R-44,-1,Red,100,75,"$2,171.29","$3,578.27",44,CM ,LB ,13.77,4,Road-150,Road Bikes,Bikes,R ,H ,U ,2,01-07-2001,30-06-2002
+751,"Road-150 Red, 48",BK-R93R-48,-1,Red,100,75,"$2,171.29","$3,578.27",48,CM ,LB ,14.13,4,Road-150,Road Bikes,Bikes,R ,H ,U ,2,01-07-2001,30-06-2002
+752,"Road-150 Red, 52",BK-R93R-52,-1,Red,100,75,"$2,171.29","$3,578.27",52,CM ,LB ,14.42,4,Road-150,Road Bikes,Bikes,R ,H ,U ,2,01-07-2001,30-06-2002
+753,"Road-150 Red, 56",BK-R93R-56,-1,Red,100,75,"$2,171.29","$3,578.27",56,CM ,LB ,14.68,4,Road-150,Road Bikes,Bikes,R ,H ,U ,2,01-07-2001,30-06-2002
+754,"Road-450 Red, 58",BK-R68R-58,-1,Red,100,75,$884.71,"$1,457.99",58,CM ,LB ,17.79,4,Road-450,Road Bikes,Bikes,R ,M ,U ,2,01-07-2001,30-06-2002
+755,"Road-450 Red, 60",BK-R68R-60,-1,Red,100,75,$884.71,"$1,457.99",60,CM ,LB ,17.9,4,Road-450,Road Bikes,Bikes,R ,M ,U ,2,01-07-2001,30-06-2002
+756,"Road-450 Red, 44",BK-R68R-44,-1,Red,100,75,$884.71,"$1,457.99",44,CM ,LB ,16.77,4,Road-450,Road Bikes,Bikes,R ,M ,U ,2,01-07-2001,30-06-2002
+757,"Road-450 Red, 48",BK-R68R-48,-1,Red,100,75,$884.71,"$1,457.99",48,CM ,LB ,17.13,4,Road-450,Road Bikes,Bikes,R ,M ,U ,2,01-07-2001,30-06-2002
+758,"Road-450 Red, 52",BK-R68R-52,-1,Red,100,75,$884.71,"$1,457.99",52,CM ,LB ,17.42,4,Road-450,Road Bikes,Bikes,R ,M ,U ,2,01-07-2001,30-06-2002
+759,"Road-650 Red, 58",BK-R50R-58,-1,Red,100,75,$486.71,$782.99,58,CM ,LB ,19.79,4,Road-650,Road Bikes,Bikes,R ,L ,U ,2,01-07-2001,30-06-2003
+760,"Road-650 Red, 60",BK-R50R-60,-1,Red,100,75,$486.71,$782.99,60,CM ,LB ,19.9,4,Road-650,Road Bikes,Bikes,R ,L ,U ,2,01-07-2001,30-06-2003
+761,"Road-650 Red, 62",BK-R50R-62,-1,Red,100,75,$486.71,$782.99,62,CM ,LB ,20,4,Road-650,Road Bikes,Bikes,R ,L ,U ,2,01-07-2001,30-06-2003
+762,"Road-650 Red, 44",BK-R50R-44,-1,Red,100,75,$486.71,$782.99,44,CM ,LB ,18.77,4,Road-650,Road Bikes,Bikes,R ,L ,U ,2,01-07-2001,30-06-2003
+763,"Road-650 Red, 48",BK-R50R-48,-1,Red,100,75,$486.71,$782.99,48,CM ,LB ,19.13,4,Road-650,Road Bikes,Bikes,R ,L ,U ,2,01-07-2001,30-06-2003
+764,"Road-650 Red, 52",BK-R50R-52,-1,Red,100,75,$486.71,$782.99,52,CM ,LB ,19.42,4,Road-650,Road Bikes,Bikes,R ,L ,U ,2,01-07-2001,30-06-2003
+765,"Road-650 Black, 58",BK-R50B-58,-1,Black,100,75,$486.71,$782.99,58,CM ,LB ,19.79,4,Road-650,Road Bikes,Bikes,R ,L ,U ,2,01-07-2001,30-06-2003
+766,"Road-650 Black, 60",BK-R50B-60,-1,Black,100,75,$486.71,$782.99,60,CM ,LB ,19.9,4,Road-650,Road Bikes,Bikes,R ,L ,U ,2,01-07-2001,30-06-2003
+767,"Road-650 Black, 62",BK-R50B-62,-1,Black,100,75,$486.71,$782.99,62,CM ,LB ,20,4,Road-650,Road Bikes,Bikes,R ,L ,U ,2,01-07-2001,30-06-2003
+768,"Road-650 Black, 44",BK-R50B-44,-1,Black,100,75,$486.71,$782.99,44,CM ,LB ,18.77,4,Road-650,Road Bikes,Bikes,R ,L ,U ,2,01-07-2001,30-06-2003
+769,"Road-650 Black, 48",BK-R50B-48,-1,Black,100,75,$486.71,$782.99,48,CM ,LB ,19.13,4,Road-650,Road Bikes,Bikes,R ,L ,U ,2,01-07-2001,30-06-2003
+770,"Road-650 Black, 52",BK-R50B-52,-1,Black,100,75,$486.71,$782.99,52,CM ,LB ,19.42,4,Road-650,Road Bikes,Bikes,R ,L ,U ,2,01-07-2001,30-06-2003
+771,"Mountain-100 Silver, 38",BK-M82S-38,-1,Silver,100,75,"$1,912.15","$3,399.99",38,CM ,LB ,20.35,4,Mountain-100,Mountain Bikes,Bikes,M ,H ,U ,1,01-07-2001,30-06-2002
+772,"Mountain-100 Silver, 42",BK-M82S-42,-1,Silver,100,75,"$1,912.15","$3,399.99",42,CM ,LB ,20.77,4,Mountain-100,Mountain Bikes,Bikes,M ,H ,U ,1,01-07-2001,30-06-2002
+773,"Mountain-100 Silver, 44",BK-M82S-44,-1,Silver,100,75,"$1,912.15","$3,399.99",44,CM ,LB ,21.13,4,Mountain-100,Mountain Bikes,Bikes,M ,H ,U ,1,01-07-2001,30-06-2002
+774,"Mountain-100 Silver, 48",BK-M82S-48,-1,Silver,100,75,"$1,912.15","$3,399.99",48,CM ,LB ,21.42,4,Mountain-100,Mountain Bikes,Bikes,M ,H ,U ,1,01-07-2001,30-06-2002
+775,"Mountain-100 Black, 38",BK-M82B-38,-1,Black,100,75,"$1,898.09","$3,374.99",38,CM ,LB ,20.35,4,Mountain-100,Mountain Bikes,Bikes,M ,H ,U ,1,01-07-2001,30-06-2002
+776,"Mountain-100 Black, 42",BK-M82B-42,-1,Black,100,75,"$1,898.09","$3,374.99",42,CM ,LB ,20.77,4,Mountain-100,Mountain Bikes,Bikes,M ,H ,U ,1,01-07-2001,30-06-2002
+777,"Mountain-100 Black, 44",BK-M82B-44,-1,Black,100,75,"$1,898.09","$3,374.99",44,CM ,LB ,21.13,4,Mountain-100,Mountain Bikes,Bikes,M ,H ,U ,1,01-07-2001,30-06-2002
+778,"Mountain-100 Black, 48",BK-M82B-48,-1,Black,100,75,"$1,898.09","$3,374.99",48,CM ,LB ,21.42,4,Mountain-100,Mountain Bikes,Bikes,M ,H ,U ,1,01-07-2001,30-06-2002
+779,"Mountain-200 Silver, 38",BK-M68S-38,-1,Silver,100,75,"$1,265.62","$2,319.99",38,CM ,LB ,23.35,4,Mountain-200,Mountain Bikes,Bikes,M ,H ,U ,1,01-07-2002,
+780,"Mountain-200 Silver, 42",BK-M68S-42,-1,Silver,100,75,"$1,265.62","$2,319.99",42,CM ,LB ,23.77,4,Mountain-200,Mountain Bikes,Bikes,M ,H ,U ,1,01-07-2002,
+781,"Mountain-200 Silver, 46",BK-M68S-46,-1,Silver,100,75,"$1,265.62","$2,319.99",46,CM ,LB ,24.13,4,Mountain-200,Mountain Bikes,Bikes,M ,H ,U ,1,01-07-2002,
+782,"Mountain-200 Black, 38",BK-M68B-38,-1,Black,100,75,"$1,251.98","$2,294.99",38,CM ,LB ,23.35,4,Mountain-200,Mountain Bikes,Bikes,M ,H ,U ,1,01-07-2002,
+783,"Mountain-200 Black, 42",BK-M68B-42,-1,Black,100,75,"$1,251.98","$2,294.99",42,CM ,LB ,23.77,4,Mountain-200,Mountain Bikes,Bikes,M ,H ,U ,1,01-07-2002,
+784,"Mountain-200 Black, 46",BK-M68B-46,-1,Black,100,75,"$1,251.98","$2,294.99",46,CM ,LB ,24.13,4,Mountain-200,Mountain Bikes,Bikes,M ,H ,U ,1,01-07-2002,
+785,"Mountain-300 Black, 38",BK-M47B-38,-1,Black,100,75,$598.44,"$1,079.99",38,CM ,LB ,25.35,4,Mountain-300,Mountain Bikes,Bikes,M ,M ,U ,1,01-07-2002,30-06-2003
+786,"Mountain-300 Black, 40",BK-M47B-40,-1,Black,100,75,$598.44,"$1,079.99",40,CM ,LB ,25.77,4,Mountain-300,Mountain Bikes,Bikes,M ,M ,U ,1,01-07-2002,30-06-2003
+787,"Mountain-300 Black, 44",BK-M47B-44,-1,Black,100,75,$598.44,"$1,079.99",44,CM ,LB ,26.13,4,Mountain-300,Mountain Bikes,Bikes,M ,M ,U ,1,01-07-2002,30-06-2003
+788,"Mountain-300 Black, 48",BK-M47B-48,-1,Black,100,75,$598.44,"$1,079.99",48,CM ,LB ,26.42,4,Mountain-300,Mountain Bikes,Bikes,M ,M ,U ,1,01-07-2002,30-06-2003
+789,"Road-250 Red, 44",BK-R89R-44,-1,Red,100,75,"$1,518.79","$2,443.35",44,CM ,LB ,14.77,4,Road-250,Road Bikes,Bikes,R ,H ,U ,2,01-07-2002,30-06-2003
+790,"Road-250 Red, 48",BK-R89R-48,-1,Red,100,75,"$1,518.79","$2,443.35",48,CM ,LB ,15.13,4,Road-250,Road Bikes,Bikes,R ,H ,U ,2,01-07-2002,30-06-2003
+791,"Road-250 Red, 52",BK-R89R-52,-1,Red,100,75,"$1,518.79","$2,443.35",52,CM ,LB ,15.42,4,Road-250,Road Bikes,Bikes,R ,H ,U ,2,01-07-2002,30-06-2003
+792,"Road-250 Red, 58",BK-R89R-58,-1,Red,100,75,"$1,554.95","$2,443.35",58,CM ,LB ,15.79,4,Road-250,Road Bikes,Bikes,R ,H ,U ,2,01-07-2002,
+793,"Road-250 Black, 44",BK-R89B-44,-1,Black,100,75,"$1,554.95","$2,443.35",44,CM ,LB ,14.77,4,Road-250,Road Bikes,Bikes,R ,H ,U ,2,01-07-2002,
+794,"Road-250 Black, 48",BK-R89B-48,-1,Black,100,75,"$1,554.95","$2,443.35",48,CM ,LB ,15.13,4,Road-250,Road Bikes,Bikes,R ,H ,U ,2,01-07-2002,
+795,"Road-250 Black, 52",BK-R89B-52,-1,Black,100,75,"$1,554.95","$2,443.35",52,CM ,LB ,15.42,4,Road-250,Road Bikes,Bikes,R ,H ,U ,2,01-07-2002,
+796,"Road-250 Black, 58",BK-R89B-58,-1,Black,100,75,"$1,554.95","$2,443.35",58,CM ,LB ,15.68,4,Road-250,Road Bikes,Bikes,R ,H ,U ,2,01-07-2002,
+797,"Road-550-W Yellow, 38",BK-R64Y-38,-1,Yellow,100,75,$713.08,"$1,120.49",38,CM ,LB ,17.35,4,Road-550-W,Road Bikes,Bikes,R ,M ,W ,2,01-07-2002,
+798,"Road-550-W Yellow, 40",BK-R64Y-40,-1,Yellow,100,75,$713.08,"$1,120.49",40,CM ,LB ,17.77,4,Road-550-W,Road Bikes,Bikes,R ,M ,W ,2,01-07-2002,
+799,"Road-550-W Yellow, 42",BK-R64Y-42,-1,Yellow,100,75,$713.08,"$1,120.49",42,CM ,LB ,18.13,4,Road-550-W,Road Bikes,Bikes,R ,M ,W ,2,01-07-2002,
+800,"Road-550-W Yellow, 44",BK-R64Y-44,-1,Yellow,100,75,$713.08,"$1,120.49",44,CM ,LB ,18.42,4,Road-550-W,Road Bikes,Bikes,R ,M ,W ,2,01-07-2002,
+801,"Road-550-W Yellow, 48",BK-R64Y-48,-1,Yellow,100,75,$713.08,"$1,120.49",48,CM ,LB ,18.68,4,Road-550-W,Road Bikes,Bikes,R ,M ,W ,2,01-07-2002,
+802,LL Fork,FK-1639,-1,,500,375,$65.81,$148.22,,,,,1,LL Fork,Forks,Components,,L ,,10,01-07-2002,30-06-2003
+803,ML Fork,FK-5136,-1,,500,375,$77.92,$175.49,,,,,1,ML Fork,Forks,Components,,M ,,10,01-07-2002,30-06-2003
+804,HL Fork,FK-9939,-1,,500,375,$101.89,$229.49,,,,,1,HL Fork,Forks,Components,,H ,,10,01-07-2002,30-06-2003
+805,LL Headset,HS-0296,-1,,500,375,$15.18,$34.20,,,,,1,LL Headset,Headsets,Components,,L ,,11,01-07-2002,30-06-2003
+806,ML Headset,HS-2451,-1,,500,375,$45.42,$102.29,,,,,1,ML Headset,Headsets,Components,,M ,,11,01-07-2002,30-06-2003
+807,HL Headset,HS-3479,-1,,500,375,$55.38,$124.73,,,,,1,HL Headset,Headsets,Components,,H ,,11,01-07-2002,30-06-2003
+808,LL Mountain Handlebars,HB-M243,-1,,500,375,$19.78,$44.54,,,,,1,LL Mountain Handlebars,Handlebars,Components,M ,L ,,4,01-07-2002,
+809,ML Mountain Handlebars,HB-M763,-1,,500,375,$27.49,$61.92,,,,,1,ML Mountain Handlebars,Handlebars,Components,M ,M ,,4,01-07-2002,
+810,HL Mountain Handlebars,HB-M918,-1,,500,375,$53.40,$120.27,,,,,1,HL Mountain Handlebars,Handlebars,Components,M ,H ,,4,01-07-2002,
+811,LL Road Handlebars,HB-R504,-1,,500,375,$19.78,$44.54,,,,,1,LL Road Handlebars,Handlebars,Components,R ,L ,,4,01-07-2002,
+812,ML Road Handlebars,HB-R720,-1,,500,375,$27.49,$61.92,,,,,1,ML Road Handlebars,Handlebars,Components,R ,M ,,4,01-07-2002,
+813,HL Road Handlebars,HB-R956,-1,,500,375,$53.40,$120.27,,,,,1,HL Road Handlebars,Handlebars,Components,R ,H ,,4,01-07-2002,
+814,"ML Mountain Frame - Black, 38",FR-M63B-38,-1,Black,500,375,$185.82,$348.76,38,CM ,LB ,2.73,2,ML Mountain Frame-W,Mountain Frames,Components,M ,M ,U ,12,01-07-2002,30-06-2003
+815,LL Mountain Front Wheel,FW-M423,-1,Black,500,375,$26.97,$60.75,,,,,1,LL Mountain Front Wheel,Wheels,Components,M ,L ,,17,01-07-2002,30-06-2003
+816,ML Mountain Front Wheel,FW-M762,-1,Black,500,375,$92.81,$209.03,,,,,1,ML Mountain Front Wheel,Wheels,Components,M ,M ,,17,01-07-2002,30-06-2003
+817,HL Mountain Front Wheel,FW-M928,-1,Black,500,375,$133.30,$300.22,,,,,1,HL Mountain Front Wheel,Wheels,Components,M ,H ,,17,01-07-2002,30-06-2003
+818,LL Road Front Wheel,FW-R623,-1,Black,500,375,$37.99,$85.57,,,G ,900,1,LL Road Front Wheel,Wheels,Components,R ,L ,,17,01-07-2002,30-06-2003
+819,ML Road Front Wheel,FW-R762,-1,Black,500,375,$110.28,$248.39,,,G ,850,1,ML Road Front Wheel,Wheels,Components,R ,M ,,17,01-07-2002,30-06-2003
+820,HL Road Front Wheel,FW-R820,-1,Black,500,375,$146.55,$330.06,,,G ,650,1,HL Road Front Wheel,Wheels,Components,R ,H ,,17,01-07-2002,30-06-2003
+821,Touring Front Wheel,FW-T905,-1,Black,500,375,$96.80,$218.01,,,,,1,Touring Front Wheel,Wheels,Components,T ,,,17,01-07-2002,30-06-2003
+822,"ML Road Frame-W - Yellow, 38",FR-R72Y-38,-1,Yellow,500,375,$360.94,$594.83,38,CM ,LB ,2.18,2,ML Road Frame-W,Road Frames,Components,R ,M ,W ,14,01-07-2002,
+823,LL Mountain Rear Wheel,RW-M423,-1,Black,500,375,$38.96,$87.75,,,,,1,LL Mountain Rear Wheel,Wheels,Components,M ,L ,,17,01-07-2002,30-06-2003
+824,ML Mountain Rear Wheel,RW-M762,-1,Black,500,375,$104.80,$236.03,,,,,1,ML Mountain Rear Wheel,Wheels,Components,M ,M ,,17,01-07-2002,30-06-2003
+825,HL Mountain Rear Wheel,RW-M928,-1,Black,500,375,$145.28,$327.22,,,,,1,HL Mountain Rear Wheel,Wheels,Components,M ,H ,,17,01-07-2002,30-06-2003
+826,LL Road Rear Wheel,RW-R623,-1,Black,500,375,$49.98,$112.57,,,G ,1050,1,LL Road Rear Wheel,Wheels,Components,R ,L ,,17,01-07-2002,30-06-2003
+827,ML Road Rear Wheel,RW-R762,-1,Black,500,375,$122.27,$275.39,,,G ,1000,1,ML Road Rear Wheel,Wheels,Components,R ,M ,,17,01-07-2002,30-06-2003
+828,HL Road Rear Wheel,RW-R820,-1,Black,500,375,$158.53,$357.06,,,G ,890,1,HL Road Rear Wheel,Wheels,Components,R ,H ,,17,01-07-2002,30-06-2003
+829,Touring Rear Wheel,RW-T905,-1,Black,500,375,$108.78,$245.01,,,,,1,Touring Rear Wheel,Wheels,Components,T ,,,17,01-07-2002,30-06-2003
+830,"ML Mountain Frame - Black, 40",FR-M63B-40,-1,Black,500,375,$185.82,$348.76,40,CM ,LB ,2.77,1,ML Mountain Frame,Mountain Frames,Components,M ,M ,U ,12,01-07-2002,30-06-2003
+831,"ML Mountain Frame - Black, 44",FR-M63B-44,-1,Black,500,375,$185.82,$348.76,44,CM ,LB ,2.81,1,ML Mountain Frame,Mountain Frames,Components,M ,M ,U ,12,01-07-2002,30-06-2003
+832,"ML Mountain Frame - Black, 48",FR-M63B-48,-1,Black,500,375,$185.82,$348.76,48,CM ,LB ,2.85,1,ML Mountain Frame,Mountain Frames,Components,M ,M ,U ,12,01-07-2002,30-06-2003
+833,"ML Road Frame-W - Yellow, 40",FR-R72Y-40,-1,Yellow,500,375,$360.94,$594.83,40,CM ,LB ,2.22,1,ML Road Frame-W,Road Frames,Components,R ,M ,W ,14,01-07-2002,
+834,"ML Road Frame-W - Yellow, 42",FR-R72Y-42,-1,Yellow,500,375,$360.94,$594.83,42,CM ,LB ,2.26,1,ML Road Frame-W,Road Frames,Components,R ,M ,W ,14,01-07-2002,
+835,"ML Road Frame-W - Yellow, 44",FR-R72Y-44,-1,Yellow,500,375,$360.94,$594.83,44,CM ,LB ,2.3,1,ML Road Frame-W,Road Frames,Components,R ,M ,W ,14,01-07-2002,
+836,"ML Road Frame-W - Yellow, 48",FR-R72Y-48,-1,Yellow,500,375,$360.94,$594.83,48,CM ,LB ,2.34,1,ML Road Frame-W,Road Frames,Components,R ,M ,W ,14,01-07-2002,
+837,"HL Road Frame - Black, 62",FR-R92B-62,-1,Black,500,375,$868.63,"$1,431.50",62,CM ,LB ,2.3,1,HL Road Frame,Road Frames,Components,R ,H ,U ,14,01-07-2002,
+838,"HL Road Frame - Black, 44",FR-R92B-44,-1,Black,500,375,$868.63,"$1,431.50",44,CM ,LB ,2.12,1,HL Road Frame,Road Frames,Components,R ,H ,U ,14,01-07-2002,
+839,"HL Road Frame - Black, 48",FR-R92B-48,-1,Black,500,375,$868.63,"$1,431.50",48,CM ,LB ,2.16,1,HL Road Frame,Road Frames,Components,R ,H ,U ,14,01-07-2002,
+840,"HL Road Frame - Black, 52",FR-R92B-52,-1,Black,500,375,$868.63,"$1,431.50",52,CM ,LB ,2.2,1,HL Road Frame,Road Frames,Components,R ,H ,U ,14,01-07-2002,
+841,"Men's Sports Shorts, S",SH-M897-S,0,Black,4,3,$24.75,$59.99,S,,,,0,Men's Sports Shorts,Shorts,Clothing,S ,,M ,22,01-07-2002,30-06-2003
+842,"Touring-Panniers, Large",PA-T100,0,Grey,4,3,$51.56,$125.00,,,,,0,Touring-Panniers,Panniers,Accessories,T ,,,35,01-07-2002,30-06-2003
+843,Cable Lock,LO-C100,0,,4,3,$10.31,$25.00,,,,,0,Cable Lock,Locks,Accessories,S ,,,34,01-07-2002,30-06-2003
+844,Minipump,PU-0452,0,,4,3,$8.25,$19.99,,,,,0,Minipump,Pumps,Accessories,S ,,,36,01-07-2002,30-06-2003
+845,Mountain Pump,PU-M044,0,,4,3,$10.31,$24.99,,,,,0,Mountain Pump,Pumps,Accessories,M ,,,36,01-07-2002,30-06-2003
+846,Taillights - Battery-Powered,LT-T990,0,,4,3,$5.77,$13.99,,,,,0,Taillight,Lights,Accessories,R ,,,33,01-07-2002,30-06-2003
+847,Headlights - Dual-Beam,LT-H902,0,,4,3,$14.43,$34.99,,,,,0,Headlights - Dual-Beam,Lights,Accessories,R ,,,33,01-07-2002,30-06-2003
+848,Headlights - Weatherproof,LT-H903,0,,4,3,$18.56,$44.99,,,,,0,Headlights - Weatherproof,Lights,Accessories,R ,,,33,01-07-2002,30-06-2003
+849,"Men's Sports Shorts, M",SH-M897-M,0,Black,4,3,$24.75,$59.99,M,,,,0,Men's Sports Shorts,Shorts,Clothing,S ,,M ,22,01-07-2002,30-06-2003
+850,"Men's Sports Shorts, L",SH-M897-L,0,Black,4,3,$24.75,$59.99,L,,,,0,Men's Sports Shorts,Shorts,Clothing,S ,,M ,22,01-07-2002,30-06-2003
+851,"Men's Sports Shorts, XL",SH-M897-X,0,Black,4,3,$24.75,$59.99,XL,,,,0,Men's Sports Shorts,Shorts,Clothing,S ,,M ,22,01-07-2002,30-06-2003
+852,"Women's Tights, S",TG-W091-S,0,Black,4,3,$30.93,$74.99,S,,,,0,Women's Tights,Tights,Clothing,S ,,W ,24,01-07-2002,30-06-2003
+853,"Women's Tights, M",TG-W091-M,0,Black,4,3,$30.93,$74.99,M,,,,0,Women's Tights,Tights,Clothing,S ,,W ,24,01-07-2002,30-06-2003
+854,"Women's Tights, L",TG-W091-L,0,Black,4,3,$30.93,$74.99,L,,,,0,Women's Tights,Tights,Clothing,S ,,W ,24,01-07-2002,30-06-2003
+855,"Men's Bib-Shorts, S",SB-M891-S,0,Multi,4,3,$37.12,$89.99,S,,,,0,Men's Bib-Shorts,Bib-Shorts,Clothing,S ,,M ,18,01-07-2002,30-06-2003
+856,"Men's Bib-Shorts, M",SB-M891-M,0,Multi,4,3,$37.12,$89.99,M,,,,0,Men's Bib-Shorts,Bib-Shorts,Clothing,S ,,M ,18,01-07-2002,30-06-2003
+857,"Men's Bib-Shorts, L",SB-M891-L,0,Multi,4,3,$37.12,$89.99,L,,,,0,Men's Bib-Shorts,Bib-Shorts,Clothing,S ,,M ,18,01-07-2002,30-06-2003
+858,"Half-Finger Gloves, S",GL-H102-S,0,Black,4,3,$9.16,$24.49,S,,,,0,Half-Finger Gloves,Gloves,Clothing,S ,,U ,20,01-07-2002,
+859,"Half-Finger Gloves, M",GL-H102-M,0,Black,4,3,$9.16,$24.49,M,,,,0,Half-Finger Gloves,Gloves,Clothing,S ,,U ,20,01-07-2002,
+860,"Half-Finger Gloves, L",GL-H102-L,0,Black,4,3,$9.16,$24.49,L,,,,0,Half-Finger Gloves,Gloves,Clothing,S ,,U ,20,01-07-2002,
+861,"Full-Finger Gloves, S",GL-F110-S,0,Black,4,3,$15.67,$37.99,S,,,,0,Full-Finger Gloves,Gloves,Clothing,M ,,U ,20,01-07-2002,30-06-2003
+862,"Full-Finger Gloves, M",GL-F110-M,0,Black,4,3,$15.67,$37.99,M,,,,0,Full-Finger Gloves,Gloves,Clothing,M ,,U ,20,01-07-2002,30-06-2003
+863,"Full-Finger Gloves, L",GL-F110-L,0,Black,4,3,$15.67,$37.99,L,,,,0,Full-Finger Gloves,Gloves,Clothing,M ,,U ,20,01-07-2002,30-06-2003
+864,"Classic Vest, S",VE-C304-S,0,Blue,4,3,$23.75,$63.50,S,,,,0,Vest,Vests,Clothing,S ,,U ,25,01-07-2003,
+865,"Classic Vest, M",VE-C304-M,0,Blue,4,3,$23.75,$63.50,M,,,,0,Vest,Vests,Clothing,S ,,U ,25,01-07-2003,
+866,"Classic Vest, L",VE-C304-L,0,Blue,4,3,$23.75,$63.50,L,,,,0,Vest,Vests,Clothing,S ,,U ,25,01-07-2003,
+867,"Women's Mountain Shorts, S",SH-W890-S,0,Black,4,3,$26.18,$69.99,S,,,,0,Women's Mountain Shorts,Shorts,Clothing,M ,,W ,22,01-07-2003,
+868,"Women's Mountain Shorts, M",SH-W890-M,0,Black,4,3,$26.18,$69.99,M,,,,0,Women's Mountain Shorts,Shorts,Clothing,M ,,W ,22,01-07-2003,
+869,"Women's Mountain Shorts, L",SH-W890-L,0,Black,4,3,$26.18,$69.99,L,,,,0,Women's Mountain Shorts,Shorts,Clothing,M ,,W ,22,01-07-2003,
+870,Water Bottle - 30 oz.,WB-H098,0,,4,3,$1.87,$4.99,,,,,0,Water Bottle,Bottles and Cages,Accessories,S ,,,28,01-07-2003,
+871,Mountain Bottle Cage,BC-M005,0,,4,3,$3.74,$9.99,,,,,0,Mountain Bottle Cage,Bottles and Cages,Accessories,M ,,,28,01-07-2003,
+872,Road Bottle Cage,BC-R205,0,,4,3,$3.36,$8.99,,,,,0,Road Bottle Cage,Bottles and Cages,Accessories,R ,,,28,01-07-2003,
+873,Patch Kit/8 Patches,PK-7098,0,,4,3,$0.86,$2.29,,,,,0,Patch kit,Tires and Tubes,Accessories,S ,,,37,01-07-2003,
+874,"Racing Socks, M",SO-R809-M,0,White,4,3,$3.36,$8.99,M,,,,0,Racing Socks,Socks,Clothing,R ,,U ,23,01-07-2003,
+875,"Racing Socks, L",SO-R809-L,0,White,4,3,$3.36,$8.99,L,,,,0,Racing Socks,Socks,Clothing,R ,,U ,23,01-07-2003,
+876,Hitch Rack - 4-Bike,RA-H123,0,,4,3,$44.88,$120.00,,,,,0,Hitch Rack - 4-Bike,Bike Racks,Accessories,S ,,,26,01-07-2003,
+877,Bike Wash - Dissolver,CL-9009,0,,4,3,$2.97,$7.95,,,,,0,Bike Wash,Cleaners,Accessories,S ,,,29,01-07-2003,
+878,Fender Set - Mountain,FE-6654,0,,4,3,$8.22,$21.98,,,,,0,Fender Set - Mountain,Fenders,Accessories,M ,,,30,01-07-2003,
+879,All-Purpose Bike Stand,ST-1401,0,,4,3,$59.47,$159.00,,,,,0,All-Purpose Bike Stand,Bike Stands,Accessories,M ,,,27,01-07-2003,
+880,Hydration Pack - 70 oz.,HY-1023-70,0,Silver,4,3,$20.57,$54.99,70,,,,0,Hydration Pack,Hydration Packs,Accessories,S ,,,32,01-07-2003,
+881,"Short-Sleeve Classic Jersey, S",SJ-0194-S,0,Yellow,4,3,$41.57,$53.99,S,,,,0,Short-Sleeve Classic Jersey,Jerseys,Clothing,S ,,U ,21,01-07-2003,
+882,"Short-Sleeve Classic Jersey, M",SJ-0194-M,0,Yellow,4,3,$41.57,$53.99,M,,,,0,Short-Sleeve Classic Jersey,Jerseys,Clothing,S ,,U ,21,01-07-2003,
+883,"Short-Sleeve Classic Jersey, L",SJ-0194-L,0,Yellow,4,3,$41.57,$53.99,L,,,,0,Short-Sleeve Classic Jersey,Jerseys,Clothing,S ,,U ,21,01-07-2003,
+884,"Short-Sleeve Classic Jersey, XL",SJ-0194-X,0,Yellow,4,3,$41.57,$53.99,XL,,,,0,Short-Sleeve Classic Jersey,Jerseys,Clothing,S ,,U ,21,01-07-2003,
+885,"HL Touring Frame - Yellow, 60",FR-T98Y-60,-1,Yellow,500,375,$601.74,"$1,003.91",60,CM ,LB ,3.08,1,HL Touring Frame,Touring Frames,Components,T ,H ,U ,16,01-07-2003,
+886,"LL Touring Frame - Yellow, 62",FR-T67Y-62,-1,Yellow,500,375,$199.85,$333.42,62,CM ,LB ,3.2,1,LL Touring Frame,Touring Frames,Components,T ,L ,U ,16,01-07-2003,
+887,"HL Touring Frame - Yellow, 46",FR-T98Y-46,-1,Yellow,500,375,$601.74,"$1,003.91",46,CM ,LB ,2.96,1,HL Touring Frame,Touring Frames,Components,T ,H ,U ,16,01-07-2003,
+888,"HL Touring Frame - Yellow, 50",FR-T98Y-50,-1,Yellow,500,375,$601.74,"$1,003.91",50,CM ,LB ,3,1,HL Touring Frame,Touring Frames,Components,T ,H ,U ,16,01-07-2003,
+889,"HL Touring Frame - Yellow, 54",FR-T98Y-54,-1,Yellow,500,375,$601.74,"$1,003.91",54,CM ,LB ,3.04,1,HL Touring Frame,Touring Frames,Components,T ,H ,U ,16,01-07-2003,
+890,"HL Touring Frame - Blue, 46",FR-T98U-46,-1,Blue,500,375,$601.74,"$1,003.91",46,CM ,LB ,2.96,1,HL Touring Frame,Touring Frames,Components,T ,H ,U ,16,01-07-2003,
+891,"HL Touring Frame - Blue, 50",FR-T98U-50,-1,Blue,500,375,$601.74,"$1,003.91",50,CM ,LB ,3,1,HL Touring Frame,Touring Frames,Components,T ,H ,U ,16,01-07-2003,
+892,"HL Touring Frame - Blue, 54",FR-T98U-54,-1,Blue,500,375,$601.74,"$1,003.91",54,CM ,LB ,3.04,1,HL Touring Frame,Touring Frames,Components,T ,H ,U ,16,01-07-2003,
+893,"HL Touring Frame - Blue, 60",FR-T98U-60,-1,Blue,500,375,$601.74,"$1,003.91",60,CM ,LB ,3.08,1,HL Touring Frame,Touring Frames,Components,T ,H ,U ,16,01-07-2003,
+894,Rear Derailleur,RD-2308,-1,Silver,500,375,$53.93,$121.46,,,G ,215,1,Rear Derailleur,Derailleurs,Components,,,,9,01-07-2003,
+895,"LL Touring Frame - Blue, 50",FR-T67U-50,-1,Blue,500,375,$199.85,$333.42,50,CM ,LB ,3.1,1,LL Touring Frame,Touring Frames,Components,T ,L ,U ,16,01-07-2003,
+896,"LL Touring Frame - Blue, 54",FR-T67U-54,-1,Blue,500,375,$199.85,$333.42,54,CM ,LB ,3.14,1,LL Touring Frame,Touring Frames,Components,T ,L ,U ,16,01-07-2003,
+897,"LL Touring Frame - Blue, 58",FR-T67U-58,-1,Blue,500,375,$199.85,$333.42,58,CM ,LB ,3.16,1,LL Touring Frame,Touring Frames,Components,T ,L ,U ,16,01-07-2003,
+898,"LL Touring Frame - Blue, 62",FR-T67U-62,-1,Blue,500,375,$199.85,$333.42,62,CM ,LB ,3.2,1,LL Touring Frame,Touring Frames,Components,T ,L ,U ,16,01-07-2003,
+899,"LL Touring Frame - Yellow, 44",FR-T67Y-44,-1,Yellow,500,375,$199.85,$333.42,44,CM ,LB ,3.02,1,LL Touring Frame,Touring Frames,Components,T ,L ,U ,16,01-07-2003,
+900,"LL Touring Frame - Yellow, 50",FR-T67Y-50,-1,Yellow,500,375,$199.85,$333.42,50,CM ,LB ,3.1,1,LL Touring Frame,Touring Frames,Components,T ,L ,U ,16,01-07-2003,
+901,"LL Touring Frame - Yellow, 54",FR-T67Y-54,-1,Yellow,500,375,$199.85,$333.42,54,CM ,LB ,3.14,1,LL Touring Frame,Touring Frames,Components,T ,L ,U ,16,01-07-2003,
+902,"LL Touring Frame - Yellow, 58",FR-T67Y-58,-1,Yellow,500,375,$199.85,$333.42,58,CM ,LB ,3.16,1,LL Touring Frame,Touring Frames,Components,T ,L ,U ,16,01-07-2003,
+903,"LL Touring Frame - Blue, 44",FR-T67U-44,-1,Blue,500,375,$199.85,$333.42,44,CM ,LB ,3.02,1,LL Touring Frame,Touring Frames,Components,T ,L ,U ,16,01-07-2003,
+904,"ML Mountain Frame-W - Silver, 40",FR-M63S-40,-1,Silver,500,375,$199.38,$364.09,40,CM ,LB ,2.77,1,ML Mountain Frame-W,Mountain Frames,Components,M ,M ,W ,12,01-07-2003,
+905,"ML Mountain Frame-W - Silver, 42",FR-M63S-42,-1,Silver,500,375,$199.38,$364.09,42,CM ,LB ,2.81,1,ML Mountain Frame-W,Mountain Frames,Components,M ,M ,W ,12,01-07-2003,
+906,"ML Mountain Frame-W - Silver, 46",FR-M63S-46,-1,Silver,500,375,$199.38,$364.09,46,CM ,LB ,2.85,1,ML Mountain Frame-W,Mountain Frames,Components,M ,M ,W ,12,01-07-2003,
+907,Rear Brakes,RB-9231,0,Silver,500,375,$47.29,$106.50,,,G ,317,1,Rear Brakes,Brakes,Components,,,,6,01-07-2003,
+908,LL Mountain Seat/Saddle,SE-M236,0,,500,375,$12.04,$27.12,,,,,1,LL Mountain Seat/Saddle 2,Saddles,Components,M ,L ,,15,01-07-2003,
+909,ML Mountain Seat/Saddle,SE-M798,0,,500,375,$17.38,$39.14,,,,,1,ML Mountain Seat/Saddle 2,Saddles,Components,M ,M ,,15,01-07-2003,
+910,HL Mountain Seat/Saddle,SE-M940,0,,500,375,$23.37,$52.64,,,,,1,HL Mountain Seat/Saddle 2,Saddles,Components,M ,H ,,15,01-07-2003,
+911,LL Road Seat/Saddle,SE-R581,0,,500,375,$12.04,$27.12,,,,,1,LL Road Seat/Saddle 1,Saddles,Components,R ,L ,,15,01-07-2003,
+912,ML Road Seat/Saddle,SE-R908,0,,500,375,$17.38,$39.14,,,,,1,ML Road Seat/Saddle 2,Saddles,Components,T ,M ,,15,01-07-2003,
+913,HL Road Seat/Saddle,SE-R995,0,,500,375,$23.37,$52.64,,,,,1,HL Road Seat/Saddle 2,Saddles,Components,R ,H ,,15,01-07-2003,
+914,LL Touring Seat/Saddle,SE-T312,0,,500,375,$12.04,$27.12,,,,,1,LL Touring Seat/Saddle,Saddles,Components,T ,L ,,15,01-07-2003,
+915,ML Touring Seat/Saddle,SE-T762,0,,500,375,$17.38,$39.14,,,,,1,ML Touring Seat/Saddle,Saddles,Components,T ,M ,,15,01-07-2003,
+916,HL Touring Seat/Saddle,SE-T924,0,,500,375,$23.37,$52.64,,,,,1,HL Touring Seat/Saddle,Saddles,Components,T ,H ,,15,01-07-2003,
+917,"LL Mountain Frame - Silver, 42",FR-M21S-42,-1,Silver,500,375,$144.59,$264.05,42,CM ,LB ,2.92,1,LL Mountain Frame,Mountain Frames,Components,M ,L ,U ,12,01-07-2003,
+918,"LL Mountain Frame - Silver, 44",FR-M21S-44,-1,Silver,500,375,$144.59,$264.05,44,CM ,LB ,2.96,1,LL Mountain Frame,Mountain Frames,Components,M ,L ,U ,12,01-07-2003,
+919,"LL Mountain Frame - Silver, 48",FR-M21S-48,-1,Silver,500,375,$144.59,$264.05,48,CM ,LB ,3,1,LL Mountain Frame,Mountain Frames,Components,M ,L ,U ,12,01-07-2003,
+920,"LL Mountain Frame - Silver, 52",FR-M21S-52,-1,Silver,500,375,$144.59,$264.05,52,CM ,LB ,3.04,1,LL Mountain Frame,Mountain Frames,Components,M ,L ,U ,12,01-07-2003,
+921,Mountain Tire Tube,TT-M928,0,,500,375,$1.87,$4.99,,,,,0,Mountain Tire Tube,Tires and Tubes,Accessories,M ,,,37,01-07-2003,
+922,Road Tire Tube,TT-R982,0,,500,375,$1.49,$3.99,,,,,0,Road Tire Tube,Tires and Tubes,Accessories,R ,,,37,01-07-2003,
+923,Touring Tire Tube,TT-T092,0,,500,375,$1.87,$4.99,,,,,0,Touring Tire Tube,Tires and Tubes,Accessories,T ,,,37,01-07-2003,
+924,"LL Mountain Frame - Black, 42",FR-M21B-42,-1,Black,500,375,$136.79,$249.79,42,CM ,LB ,2.92,1,LL Mountain Frame,Mountain Frames,Components,M ,L ,U ,12,01-07-2003,
+925,"LL Mountain Frame - Black, 44",FR-M21B-44,-1,Black,500,375,$136.79,$249.79,44,CM ,LB ,2.96,1,LL Mountain Frame,Mountain Frames,Components,M ,L ,U ,12,01-07-2003,
+926,"LL Mountain Frame - Black, 48",FR-M21B-48,-1,Black,500,375,$136.79,$249.79,48,CM ,LB ,3,1,LL Mountain Frame,Mountain Frames,Components,M ,L ,U ,12,01-07-2003,
+927,"LL Mountain Frame - Black, 52",FR-M21B-52,-1,Black,500,375,$136.79,$249.79,52,CM ,LB ,3.04,1,LL Mountain Frame,Mountain Frames,Components,M ,L ,U ,12,01-07-2003,
+928,LL Mountain Tire,TI-M267,0,,500,375,$9.35,$24.99,,,,,0,LL Mountain Tire,Tires and Tubes,Accessories,M ,L ,,37,01-07-2003,
+929,ML Mountain Tire,TI-M602,0,,500,375,$11.22,$29.99,,,,,0,ML Mountain Tire,Tires and Tubes,Accessories,M ,M ,,37,01-07-2003,
+930,HL Mountain Tire,TI-M823,0,,500,375,$13.09,$35.00,,,,,0,HL Mountain Tire,Tires and Tubes,Accessories,M ,H ,,37,01-07-2003,
+931,LL Road Tire,TI-R092,0,,500,375,$8.04,$21.49,,,,,0,LL Road Tire,Tires and Tubes,Accessories,R ,L ,,37,01-07-2003,
+932,ML Road Tire,TI-R628,0,,500,375,$9.35,$24.99,,,,,0,ML Road Tire,Tires and Tubes,Accessories,R ,M ,,37,01-07-2003,
+933,HL Road Tire,TI-R982,0,,500,375,$12.19,$32.60,,,,,0,HL Road Tire,Tires and Tubes,Accessories,R ,H ,,37,01-07-2003,
+934,Touring Tire,TI-T723,0,,500,375,$10.84,$28.99,,,,,0,Touring Tire,Tires and Tubes,Accessories,T ,,,37,01-07-2003,
+935,LL Mountain Pedal,PD-M282,0,Silver/Black,500,375,$17.98,$40.49,,,G ,218,1,LL Mountain Pedal,Pedals,Components,M ,L ,,13,01-07-2003,
+936,ML Mountain Pedal,PD-M340,0,Silver/Black,500,375,$27.57,$62.09,,,G ,215,1,ML Mountain Pedal,Pedals,Components,M ,M ,,13,01-07-2003,
+937,HL Mountain Pedal,PD-M562,0,Silver/Black,500,375,$35.96,$80.99,,,G ,185,1,HL Mountain Pedal,Pedals,Components,M ,H ,,13,01-07-2003,
+938,LL Road Pedal,PD-R347,0,Silver/Black,500,375,$17.98,$40.49,,,G ,189,1,LL Road Pedal,Pedals,Components,R ,L ,,13,01-07-2003,
+939,ML Road Pedal,PD-R563,0,Silver/Black,500,375,$27.57,$62.09,,,G ,168,1,ML Road Pedal,Pedals,Components,R ,M ,,13,01-07-2003,
+940,HL Road Pedal,PD-R853,0,Silver/Black,500,375,$35.96,$80.99,,,G ,149,1,HL Road Pedal,Pedals,Components,R ,H ,,13,01-07-2003,
+941,Touring Pedal,PD-T852,0,Silver/Black,500,375,$35.96,$80.99,,,,,1,Touring Pedal,Pedals,Components,T ,,,13,01-07-2003,
+942,"ML Mountain Frame-W - Silver, 38",FR-M63S-38,-1,Silver,500,375,$199.38,$364.09,38,CM ,LB ,2.73,2,ML Mountain Frame-W,Mountain Frames,Components,M ,M ,W ,12,01-07-2003,
+943,"LL Mountain Frame - Black, 40",FR-M21B-40,-1,Black,500,375,$136.79,$249.79,40,CM ,LB ,2.88,2,LL Mountain Frame,Mountain Frames,Components,M ,L ,U ,12,01-07-2003,
+944,"LL Mountain Frame - Silver, 40",FR-M21S-40,-1,Silver,500,375,$144.59,$264.05,40,CM ,LB ,2.88,2,LL Mountain Frame,Mountain Frames,Components,M ,L ,U ,12,01-07-2003,
+945,Front Derailleur,FD-2342,-1,Silver,500,375,$40.62,$91.49,,,G ,88,1,Front Derailleur,Derailleurs,Components,,,,9,01-07-2003,
+946,LL Touring Handlebars,HB-T721,-1,,500,375,$20.46,$46.09,,,,,1,LL Touring Handlebars,Handlebars,Components,T ,L ,,4,01-07-2003,
+947,HL Touring Handlebars,HB-T928,-1,,500,375,$40.66,$91.57,,,,,1,HL Touring Handlebars,Handlebars,Components,T ,H ,,4,01-07-2003,
+948,Front Brakes,FB-9873,0,Silver,500,375,$47.29,$106.50,,,G ,317,1,Front Brakes,Brakes,Components,,,,6,01-07-2003,
+949,LL Crankset,CS-4759,-1,Black,500,375,$77.92,$175.49,,,G ,600,1,LL Crankset,Cranksets,Components,,L ,,8,01-07-2003,
+950,ML Crankset,CS-6583,-1,Black,500,375,$113.88,$256.49,,,G ,635,1,ML Crankset,Cranksets,Components,,M ,,8,01-07-2003,
+951,HL Crankset,CS-9183,-1,Black,500,375,$179.82,$404.99,,,G ,575,1,HL Crankset,Cranksets,Components,,H ,,8,01-07-2003,
+952,Chain,CH-0234,0,Silver,500,375,$8.99,$20.24,,,,,1,Chain,Chains,Components,,,,7,01-07-2003,
+953,"Touring-2000 Blue, 60",BK-T44U-60,-1,Blue,100,75,$755.15,"$1,214.85",60,CM ,LB ,27.9,4,Touring-2000,Touring Bikes,Bikes,T ,M ,U ,3,01-07-2003,
+954,"Touring-1000 Yellow, 46",BK-T79Y-46,-1,Yellow,100,75,"$1,481.94","$2,384.07",46,CM ,LB ,25.13,4,Touring-1000,Touring Bikes,Bikes,T ,H ,U ,3,01-07-2003,
+955,"Touring-1000 Yellow, 50",BK-T79Y-50,-1,Yellow,100,75,"$1,481.94","$2,384.07",50,CM ,LB ,25.42,4,Touring-1000,Touring Bikes,Bikes,T ,H ,U ,3,01-07-2003,
+956,"Touring-1000 Yellow, 54",BK-T79Y-54,-1,Yellow,100,75,"$1,481.94","$2,384.07",54,CM ,LB ,25.68,4,Touring-1000,Touring Bikes,Bikes,T ,H ,U ,3,01-07-2003,
+957,"Touring-1000 Yellow, 60",BK-T79Y-60,-1,Yellow,100,75,"$1,481.94","$2,384.07",60,CM ,LB ,25.9,4,Touring-1000,Touring Bikes,Bikes,T ,H ,U ,3,01-07-2003,
+958,"Touring-3000 Blue, 54",BK-T18U-54,-1,Blue,100,75,$461.44,$742.35,54,CM ,LB ,29.68,4,Touring-3000,Touring Bikes,Bikes,T ,L ,U ,3,01-07-2003,
+959,"Touring-3000 Blue, 58",BK-T18U-58,-1,Blue,100,75,$461.44,$742.35,58,CM ,LB ,29.9,4,Touring-3000,Touring Bikes,Bikes,T ,L ,U ,3,01-07-2003,
+960,"Touring-3000 Blue, 62",BK-T18U-62,-1,Blue,100,75,$461.44,$742.35,62,CM ,LB ,30,4,Touring-3000,Touring Bikes,Bikes,T ,L ,U ,3,01-07-2003,
+961,"Touring-3000 Yellow, 44",BK-T18Y-44,-1,Yellow,100,75,$461.44,$742.35,44,CM ,LB ,28.77,4,Touring-3000,Touring Bikes,Bikes,T ,L ,U ,3,01-07-2003,
+962,"Touring-3000 Yellow, 50",BK-T18Y-50,-1,Yellow,100,75,$461.44,$742.35,50,CM ,LB ,29.13,4,Touring-3000,Touring Bikes,Bikes,T ,L ,U ,3,01-07-2003,
+963,"Touring-3000 Yellow, 54",BK-T18Y-54,-1,Yellow,100,75,$461.44,$742.35,54,CM ,LB ,29.42,4,Touring-3000,Touring Bikes,Bikes,T ,L ,U ,3,01-07-2003,
+964,"Touring-3000 Yellow, 58",BK-T18Y-58,-1,Yellow,100,75,$461.44,$742.35,58,CM ,LB ,29.79,4,Touring-3000,Touring Bikes,Bikes,T ,L ,U ,3,01-07-2003,
+965,"Touring-3000 Yellow, 62",BK-T18Y-62,-1,Yellow,100,75,$461.44,$742.35,62,CM ,LB ,30,4,Touring-3000,Touring Bikes,Bikes,T ,L ,U ,3,01-07-2003,
+966,"Touring-1000 Blue, 46",BK-T79U-46,-1,Blue,100,75,"$1,481.94","$2,384.07",46,CM ,LB ,25.13,4,Touring-1000,Touring Bikes,Bikes,T ,H ,U ,3,01-07-2003,
+967,"Touring-1000 Blue, 50",BK-T79U-50,-1,Blue,100,75,"$1,481.94","$2,384.07",50,CM ,LB ,25.42,4,Touring-1000,Touring Bikes,Bikes,T ,H ,U ,3,01-07-2003,
+968,"Touring-1000 Blue, 54",BK-T79U-54,-1,Blue,100,75,"$1,481.94","$2,384.07",54,CM ,LB ,25.68,4,Touring-1000,Touring Bikes,Bikes,T ,H ,U ,3,01-07-2003,
+969,"Touring-1000 Blue, 60",BK-T79U-60,-1,Blue,100,75,"$1,481.94","$2,384.07",60,CM ,LB ,25.9,4,Touring-1000,Touring Bikes,Bikes,T ,H ,U ,3,01-07-2003,
+970,"Touring-2000 Blue, 46",BK-T44U-46,-1,Blue,100,75,$755.15,"$1,214.85",46,CM ,LB ,27.13,4,Touring-2000,Touring Bikes,Bikes,T ,M ,U ,3,01-07-2003,
+971,"Touring-2000 Blue, 50",BK-T44U-50,-1,Blue,100,75,$755.15,"$1,214.85",50,CM ,LB ,27.42,4,Touring-2000,Touring Bikes,Bikes,T ,M ,U ,3,01-07-2003,
+972,"Touring-2000 Blue, 54",BK-T44U-54,-1,Blue,100,75,$755.15,"$1,214.85",54,CM ,LB ,27.68,4,Touring-2000,Touring Bikes,Bikes,T ,M ,U ,3,01-07-2003,
+973,"Road-350-W Yellow, 40",BK-R79Y-40,-1,Yellow,100,75,"$1,082.51","$1,700.99",40,CM ,LB ,15.35,4,Road-350-W,Road Bikes,Bikes,R ,M ,W ,2,01-07-2003,
+974,"Road-350-W Yellow, 42",BK-R79Y-42,-1,Yellow,100,75,"$1,082.51","$1,700.99",42,CM ,LB ,15.77,4,Road-350-W,Road Bikes,Bikes,R ,M ,W ,2,01-07-2003,
+975,"Road-350-W Yellow, 44",BK-R79Y-44,-1,Yellow,100,75,"$1,082.51","$1,700.99",44,CM ,LB ,16.13,4,Road-350-W,Road Bikes,Bikes,R ,M ,W ,2,01-07-2003,
+976,"Road-350-W Yellow, 48",BK-R79Y-48,-1,Yellow,100,75,"$1,082.51","$1,700.99",48,CM ,LB ,16.42,4,Road-350-W,Road Bikes,Bikes,R ,M ,W ,2,01-07-2003,
+977,"Road-750 Black, 58",BK-R19B-58,-1,Black,100,75,$343.65,$539.99,58,CM ,LB ,20.79,4,Road-750,Road Bikes,Bikes,R ,L ,U ,2,01-07-2003,
+978,"Touring-3000 Blue, 44",BK-T18U-44,-1,Blue,100,75,$461.44,$742.35,44,CM ,LB ,28.77,4,Touring-3000,Touring Bikes,Bikes,T ,L ,U ,3,01-07-2003,
+979,"Touring-3000 Blue, 50",BK-T18U-50,-1,Blue,100,75,$461.44,$742.35,50,CM ,LB ,29.13,4,Touring-3000,Touring Bikes,Bikes,T ,L ,U ,3,01-07-2003,
+980,"Mountain-400-W Silver, 38",BK-M38S-38,-1,Silver,100,75,$419.78,$769.49,38,CM ,LB ,26.35,4,Mountain-400-W,Mountain Bikes,Bikes,M ,M ,W ,1,01-07-2003,
+981,"Mountain-400-W Silver, 40",BK-M38S-40,-1,Silver,100,75,$419.78,$769.49,40,CM ,LB ,26.77,4,Mountain-400-W,Mountain Bikes,Bikes,M ,M ,W ,1,01-07-2003,
+982,"Mountain-400-W Silver, 42",BK-M38S-42,-1,Silver,100,75,$419.78,$769.49,42,CM ,LB ,27.13,4,Mountain-400-W,Mountain Bikes,Bikes,M ,M ,W ,1,01-07-2003,
+983,"Mountain-400-W Silver, 46",BK-M38S-46,-1,Silver,100,75,$419.78,$769.49,46,CM ,LB ,27.42,4,Mountain-400-W,Mountain Bikes,Bikes,M ,M ,W ,1,01-07-2003,
+984,"Mountain-500 Silver, 40",BK-M18S-40,-1,Silver,100,75,$308.22,$564.99,40,CM ,LB ,27.35,4,Mountain-500,Mountain Bikes,Bikes,M ,L ,U ,1,01-07-2003,
+985,"Mountain-500 Silver, 42",BK-M18S-42,-1,Silver,100,75,$308.22,$564.99,42,CM ,LB ,27.77,4,Mountain-500,Mountain Bikes,Bikes,M ,L ,U ,1,01-07-2003,
+986,"Mountain-500 Silver, 44",BK-M18S-44,-1,Silver,100,75,$308.22,$564.99,44,CM ,LB ,28.13,4,Mountain-500,Mountain Bikes,Bikes,M ,L ,U ,1,01-07-2003,
+987,"Mountain-500 Silver, 48",BK-M18S-48,-1,Silver,100,75,$308.22,$564.99,48,CM ,LB ,28.42,4,Mountain-500,Mountain Bikes,Bikes,M ,L ,U ,1,01-07-2003,
+988,"Mountain-500 Silver, 52",BK-M18S-52,-1,Silver,100,75,$308.22,$564.99,52,CM ,LB ,28.68,4,Mountain-500,Mountain Bikes,Bikes,M ,L ,U ,1,01-07-2003,
+989,"Mountain-500 Black, 40",BK-M18B-40,-1,Black,100,75,$294.58,$539.99,40,CM ,LB ,27.35,4,Mountain-500,Mountain Bikes,Bikes,M ,L ,U ,1,01-07-2003,
+990,"Mountain-500 Black, 42",BK-M18B-42,-1,Black,100,75,$294.58,$539.99,42,CM ,LB ,27.77,4,Mountain-500,Mountain Bikes,Bikes,M ,L ,U ,1,01-07-2003,
+991,"Mountain-500 Black, 44",BK-M18B-44,-1,Black,100,75,$294.58,$539.99,44,CM ,LB ,28.13,4,Mountain-500,Mountain Bikes,Bikes,M ,L ,U ,1,01-07-2003,
+992,"Mountain-500 Black, 48",BK-M18B-48,-1,Black,100,75,$294.58,$539.99,48,CM ,LB ,28.42,4,Mountain-500,Mountain Bikes,Bikes,M ,L ,U ,1,01-07-2003,
+993,"Mountain-500 Black, 52",BK-M18B-52,-1,Black,100,75,$294.58,$539.99,52,CM ,LB ,28.68,4,Mountain-500,Mountain Bikes,Bikes,M ,L ,U ,1,01-07-2003,
+994,LL Bottom Bracket,BB-7421,-1,,500,375,$23.97,$53.99,,,G ,223,1,LL Bottom Bracket,Bottom Brackets,Components,,L ,,5,01-07-2003,
+995,ML Bottom Bracket,BB-8107,-1,,500,375,$44.95,$101.24,,,G ,168,1,ML Bottom Bracket,Bottom Brackets,Components,,M ,,5,01-07-2003,
+996,HL Bottom Bracket,BB-9108,-1,,500,375,$53.94,$121.49,,,G ,170,1,HL Bottom Bracket,Bottom Brackets,Components,,H ,,5,01-07-2003,
+997,"Road-750 Black, 44",BK-R19B-44,-1,Black,100,75,$343.65,$539.99,44,CM ,LB ,19.77,4,Road-750,Road Bikes,Bikes,R ,L ,U ,2,01-07-2003,
+998,"Road-750 Black, 48",BK-R19B-48,-1,Black,100,75,$343.65,$539.99,48,CM ,LB ,20.13,4,Road-750,Road Bikes,Bikes,R ,L ,U ,2,01-07-2003,
+999,"Road-750 Black, 52",BK-R19B-52,-1,Black,100,75,$343.65,$539.99,52,CM ,LB ,20.42,4,Road-750,Road Bikes,Bikes,R ,L ,U ,2,01-07-2003,

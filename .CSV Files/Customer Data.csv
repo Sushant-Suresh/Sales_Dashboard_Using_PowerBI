@@ -1,0 +1,702 @@
+CustomerID,Store Name,AccountNumber,AddressLine1,AddressLine2,City,PostalCode,State,Country Code,Country
+1,A Bike Store,AW00000001,2251 Elliot Avenue,,Seattle,98104,Washington,US,United States
+2,Progressive Sports,AW00000002,7943 Walnut Ave,,Renton,98055,Washington,US,United States
+3,Advanced Bike Components,AW00000003,12345 Sterling Avenue,,Irving,75061,Texas,US,United States
+4,Modular Cycle Systems,AW00000004,165 North Main,,Austin,78701,Texas,US,United States
+5,Metropolitan Sports Supply,AW00000005,482505 Warm Springs Blvd.,,Fremont,94536,California,US,United States
+6,Aerobic Exercise Company,AW00000006,39933 Mission Oaks Blvd,,Camarillo,93010,California,US,United States
+7,Associated Bikes,AW00000007,5420 West 22500 South,,Salt Lake City,84101,Utah,US,United States
+8,Exemplary Cycles,AW00000008,79945 Corporate Center Drive,,Miami,33127,Florida,US,United States
+9,Tandem Bicycle Store,AW00000009,3333 Micro Drive,,Millington,38054,Tennessee,US,United States
+10,Rural Cycle Emporium,AW00000010,6388 Lake City Way,,Burnaby,V5A 3A6,British Columbia,CA,Canada
+11,Sharp Bikes,AW00000011,52560 Free Street,,Toronto,M4B 1V7,Ontario,CA,Canada
+12,Bikes and Motorbikes,AW00000012,22580 Free Street,,Toronto,M4B 1V7,Ontario,CA,Canada
+13,Country Parts Shop,AW00000013,"7033, rue de Longchamp",,Les Ulis,91940,Essonne,FR,France
+14,Bicycle Warehouse Inc.,AW00000014,Karl Liebknecht str 299,,Frankfurt am Main,60075,Saarland,DE,Germany
+15,Budget Toy Store,AW00000015,25 Epping Road,,Lavender Bay,2060,New South Wales,AU,Australia
+16,Bulk Discount Store,AW00000016,"93-2501, Blackfriars Road,",,London,SE1 8HL,England,GB,United Kingdom
+17,Trusted Catalog Store,AW00000017,9920 Picketts Line Road,,Newport News,23607,Virginia,US,United States
+18,Catalog Store,AW00000018,855 East Main Avenue,,Zeeland,49464,Michigan,US,United States
+19,Center Cycle Shop,AW00000019,99300 223rd Southeast,,Bothell,98011,Washington,US,United States
+20,Central Discount Store,AW00000020,259826 Russell Rd. South,,Kent,98031,Washington,US,United States
+21,Chic Department Stores,AW00000021,90025 Sterling St,,Irving,75061,Texas,US,United States
+22,Travel Systems,AW00000022,2505 Gateway Drive,,North Sioux City,57049,South Dakota,US,United States
+23,Bike World,AW00000023,60025 Bollinger Canyon Road,,San Ramon,94583,California,US,United States
+24,Eastside Department Store,AW00000024,9992 Whipple Rd,,Union City,94587,California,US,United States
+25,Coalition Bike Company,AW00000025,Corporate Office,,El Segundo,90245,California,US,United States
+26,Stylish Department Stores,AW00000026,1 Corporate Center Drive,,Miami,33127,Florida,US,United States
+27,Sports Sales and Rental,AW00000027,100 Fifth Drive,,Millington,38054,Tennessee,US,United States
+28,Commuter Bicycle Store,AW00000028,2575 Bloor Street East,,Toronto,M4B 1V6,Ontario,CA,Canada
+29,Cross-Country Riding Supplies,AW00000029,Station E,,Chalk Riber,K0J 1J0,Ontario,CA,Canada
+30,Cycle Merchants,AW00000030,575 Rue St Amable,,Quebec,G1R,Quebec,CA,Canada
+31,Wheels Inc.,AW00000031,"21105, rue de Varenne",,Paris,75013,Seine (Paris),FR,France
+32,Precision Gears Inc.,AW00000032,Roßstr 2248,,Stuttgart,70511,Saarland,DE,Germany
+33,Global Sports Outlet,AW00000033,Ctrcrt Bus Pk/995-27 Paul St N,,Lavender Bay,2060,New South Wales,AU,Australia
+34,Cycles Wholesaler & Mfg.,AW00000034,"Science Park South, Birchwood",Stanford House,Warrington,WA3 7BH,England,GB,United Kingdom
+35,Economic Parts Supply,AW00000035,2532 Fairgrounds Road,,West Kingston,2892,Rhode Island,US,United States
+36,Exotic Bikes,AW00000036,6900 William Richardson Ct.,,South Bend,46601,Indiana,US,United States
+37,Two Bike Shops,AW00000037,35525-9th Street Sw,,Puyallup,98371,Washington,US,United States
+38,Finer Mart,AW00000038,640 South 994th St. W.,,Billings,59101,Montana,US,United States
+39,Fitness Hotel,AW00000039,74400 France Avenue South,,Edina,55436,Minnesota,US,United States
+40,Journey Sporting Goods,AW00000040,509 Nafta Boulevard,,Laredo,78040,Texas,US,United States
+41,Distant Inn,AW00000041,25001 Montague Expressway,,Milpitas,95035,California,US,United States
+42,Healthy Activity Store,AW00000042,4460 Newport Center Drive,,Newport Beach,92625,California,US,United States
+43,Frugal Bike Shop,AW00000043,2575 West 2700 South,,Salt Lake City,84101,Utah,US,United States
+44,Games and Sport Supply Company,AW00000044,2525 Electrics Blvd.,,Huntsville,35801,Alabama,US,United States
+45,Every Bike Shop,AW00000045,2550 High Street,,La Vergne,37086,Tennessee,US,United States
+46,Gear-Shift Bikes Limited,AW00000046,2512-4th Ave Sw,,Calgary,T2P 2G8,Alberta,CA,Canada
+47,Greater Bike Store,AW00000047,55 Lakeshore Blvd East,,Toronto,M4B 1V6,Ontario,CA,Canada
+48,Grand Industries,AW00000048,6333 Cote Vertu,,Montreal,H1Y 2H7,Quebec,CA,Canada
+49,Neighborhood Bicycle Storehouse,AW00000049,"69, boulevard Tremblay",,Roncq,59223,Nord,FR,France
+50,Hometown Riding Supplies,AW00000050,Bundesallee 9571,Rechnungsstelle - C 035,Berlin,14197,Brandenburg,DE,Germany
+51,Ideal Components,AW00000051,2-252 Beauchamp Road,Botany Bay Industrial Estate,Cloverdale,6105,South Australia,AU,Australia
+52,Instruments and Parts Company,AW00000052,"Phoenix Way, Cirencester",,Gloucestershire,GL7 1RY,England,GB,United Kingdom
+53,Incomparable Bicycle Store,AW00000053,99 Edgewater Drive,,Norwood,2062,Massachusetts,US,United States
+54,Larger Cycle Shop,AW00000054,Attn: Accounts Payable,44 Main Place,Melville,11747,New York,US,United States
+55,Kickstands and Accessories Company,AW00000055,25300 Biddle Road,,Medford,97504,Oregon,US,United States
+56,Latest Accessories Sales,AW00000056,Gateway,,Portland,97205,Oregon,US,United States
+57,Leading Sales & Repair,AW00000057,25149 Howard Dr,,West Chicago,60185,Illinois,US,United States
+58,Largest Bike Store,AW00000058,63 W Monroe,,Chicago,60610,Illinois,US,United States
+59,Locks Company,AW00000059,70259 West Sunnyview Ave,,Visalia,93291,California,US,United States
+60,Main Bicycle Services,AW00000060,60750 San Clemente,,Hayward,94541,California,US,United States
+61,Many Bikes Store,AW00000061,Receiving,,Fullerton,92831,California,US,United States
+62,Manufacturers Inc,AW00000062,Po Box 08050,,Nashville,37203,Tennessee,US,United States
+63,Metro Bike Mart,AW00000063,Po Box 2257,,Greensboro,27412,North Carolina,US,United States
+64,Metal Clearing House,AW00000064,3255 Front Street West,,Toronto,M4B 1V6,Ontario,CA,Canada
+65,Metro Manufacturing,AW00000065,2550 Signet Drive,,Weston,M9V 4W3,Ontario,CA,Canada
+66,Neighborhood Store,AW00000066,6777 Kingsway,,Burnaby,V5H 3Z7,British Columbia,CA,Canada
+67,Self-Contained Cycle Parts Company,AW00000067,"12, rue des Grands Champs",,Verrieres Le Buisson,91370,Essonne,FR,France
+68,North Bike Company,AW00000068,Auf Der Steige 29,,Muehlheim,63151,Hamburg,DE,Germany
+69,Online Bike Catalog,AW00000069,65 Epping Rd,,Lavender Bay,2060,New South Wales,AU,Australia
+70,Outdoor Aerobic Systems Company,AW00000070,255 Irving Street,,London,C2H 7AU,England,GB,United Kingdom
+71,Outdoor Distributors,AW00000071,225 Hyde Rd,,Farmington,6032,Connecticut,US,United States
+72,Outdoor Equipment Store,AW00000072,6 Cotton Road,,Nashua,3064,New Hampshire,US,United States
+73,Outdoor Sports Supply,AW00000073,Great Northwestern,,North Bend,98045,Washington,US,United States
+74,Parcel Express Delivery Service,AW00000074,Washington Square,,Portland,97205,Oregon,US,United States
+75,Paint Supply,AW00000075,Corporate Office,,Garland,75040,Texas,US,United States
+76,Out-of-the-Way Hotels,AW00000076,25269 N. Wood Dale Rd,,Wood Dale,60191,Illinois,US,United States
+77,Mechanical Products Ltd.,AW00000077,22555 Paseo De Las Americas,,San Diego,92102,California,US,United States
+78,Preferred Bikes,AW00000078,Incom Sports Center,,Ontario,91764,California,US,United States
+79,Reasonable Bicycle Sales,AW00000079,"C/O Starpak, Inc.",,Greeley,80631,Colorado,US,United States
+80,Racks and Security Systems,AW00000080,One Equinox Way,,Sunrise,33322,Florida,US,United States
+81,Rally Day Mall,AW00000081,2561 Nw 8410th Avenue,,Miami,33127,Florida,US,United States
+82,Refined Department Stores,AW00000082,5250-505 Burning St,,Vancouver,V7L 4J4,British Columbia,CA,Canada
+83,Requisite Part Supply,AW00000083,600 Slater Street,,Ottawa,K4B 1S2,Ontario,CA,Canada
+84,Rewarding Activities Company,AW00000084,25575 The Queensway,,Etobicoke,M9W 3P3,Ontario,CA,Canada
+85,Roadway Bicycle Supply,AW00000085,"121, rue de Varenne",,Courbevoie,92400,Hauts de Seine,FR,France
+86,Bicycle Exporters,AW00000086,Hellweg 4934,,Essen,45001,Hamburg,DE,Germany
+87,Rich Department Store,AW00000087,99 - 6 Orion Road,,Lane Cove,1597,New South Wales,AU,Australia
+88,Closest Bicycle Store,AW00000088,"Garamonde Drive, Wymbush",PO Box 4023,Milton Keynes,MK8 8ZD,England,GB,United Kingdom
+89,Riverside Company,AW00000089,5998 E Lorain,,Oberlin,44074,Ohio,US,United States
+90,Sales and Supply Company,AW00000090,Corporate Ofc A/p,123 Fourth Ave,Chantilly,20151,Virginia,US,United States
+91,Scooters and Bikes Store,AW00000091,258101 Nw Evergreen Parkway,,Beaverton,97005,Oregon,US,United States
+92,Sports Commodities,AW00000092,253950 N.E. 178th Place,,Woodinville,98072,Washington,US,United States
+93,Stationary Bikes and Stands,AW00000093,Sapp Road West,,Round Rock,78664,Texas,US,United States
+94,Specialty Sports Store,AW00000094,52500 Liberty Way,,Fort Worth,76102,Texas,US,United States
+95,Rural Department Store,AW00000095,5967 W Las Positas Blvd,,Pleasanton,94566,California,US,United States
+96,More Bikes!,AW00000096,25600 E St Andrews Pl,,Santa Ana,92701,California,US,United States
+97,Mountain Bike Center,AW00000097,6756 Mowry,,Newark,94560,California,US,United States
+98,Superlative Bikes,AW00000098,8525 Nw 17th St.,,Miami,33127,Florida,US,United States
+99,Unified Sports Company,AW00000099,9876 Fruitville Rd,,Sarasota,34236,Florida,US,United States
+100,Up-To-Date Sports,AW00000100,2521 McPherson Street,,Markham,L3S 3K2,Ontario,CA,Canada
+101,Urban Sports Emporium,AW00000101,2560 Bay Street,,Toronto,M4B 1V7,Ontario,CA,Canada
+102,National Manufacturing,AW00000102,630 University Avenue,,Toronto,M4B 1V7,Ontario,CA,Canada
+103,The Bike Outlet,AW00000103,"22, rue du Départ",,Pantin,93500,Seine Saint Denis,FR,France
+104,Very Best Sports Supply,AW00000104,Kurfürstenstr 9,,Duesseldorf,40605,Hessen,DE,Germany
+105,Volume Bike Sellers,AW00000105,2565-175 Mitchell Road,,Alexandria,2015,New South Wales,AU,Australia
+106,West Side Mart,AW00000106,251 The Metro Center,,Wokingham,RG41 1QW,England,GB,United Kingdom
+107,Wholesale Bikes,AW00000107,58 Teed Drive,,Randolph,2368,Massachusetts,US,United States
+108,Wheelsets Storehouse,AW00000108,63 Badgers Island West,,Kittery,3904,Maine,US,United States
+109,Travel Sports,AW00000109,755 Nw Grandstand,,Issaquah,98027,Washington,US,United States
+110,Vintage Sport Boutique,AW00000110,22571 South 2500 East,,Idaho Falls,83402,Idaho,US,United States
+111,Westside Cycle Store,AW00000111,25550 Executive Dr,,Elgin,60120,Illinois,US,United States
+112,Town Industries,AW00000112,P.O. Box 6256916,,Dallas,75201,Texas,US,United States
+113,Trendy Department Stores,AW00000113,25472 Marlay Ave,,Fontana,92335,California,US,United States
+114,Two Wheels Cycle Store,AW00000114,77 Beale Street,Room 99767c,San Francisco,94109,California,US,United States
+115,Security Racks and Locks Wholesalers,AW00000115,910 Main Street.,,Sparks,89431,Nevada,US,United States
+116,Retirement Activities Association,AW00000116,42500 West Park Drive,,Atlanta,30308,Georgia,US,United States
+117,Pedals Warehouse,AW00000117,6055 Shawnee Industrial Way,,Suwanee,30024,Georgia,US,United States
+118,Rapid Bikes,AW00000118,992 St Clair Ave East,,Toronto,M4B 1V7,Ontario,CA,Canada
+119,Red Bicycle Company,AW00000119,"99, Rue Saint-pierre",,Pnot-Rouge,J1E 2T7,Quebec,CA,Canada
+120,Machines & Cycles Store,AW00000120,25245 Rue Sherbrooke Ouest,,Montreal,H1Y 2H5,Quebec,CA,Canada
+121,Metro Sports Equipment,AW00000121,"6, rue des Pyrenees",,Saint Ouen,41100,Loir et Cher,FR,France
+122,Off-Price Bike Center,AW00000122,Postfach 11 09 00,,Berlin,14111,Hessen,DE,Germany
+123,First Supplies,AW00000123,Chabbell Park,,North Ryde,2113,New South Wales,AU,Australia
+124,Nearby Sporting Goods,AW00000124,Bradford,,W. York,BD1 4SJ,England,GB,United Kingdom
+125,Immediate Repair Shop,AW00000125,9963 Tresser Blvd.,,Stamford,6901,Connecticut,US,United States
+126,Famous Bike Sales and Service,AW00000126,P.O. Box 9005,,Endicott,13760,New York,US,United States
+127,Front Sporting Goods,AW00000127,257700 Ne 76th Street,,Redmond,98052,Washington,US,United States
+128,Demand Distributors,AW00000128,25102 Springwater,,Wenatchee,98801,Washington,US,United States
+129,Discount Bicycle Specialists,AW00000129,25269 Wood Dale Rd.,,Wood Dale,60191,Illinois,US,United States
+130,Elite Bikes,AW00000130,Po Box 8259024,,Dallas,75201,Texas,US,United States
+131,Eighth Bike Store,AW00000131,2500 N Serene Blvd,19th Floor,El Segundo,90245,California,US,United States
+132,Another Sporting Goods Company,AW00000132,5650 West 88th Ave.,,Westminster,80030,Colorado,US,United States
+133,Commercial Sporting Goods,AW00000133,9700 Sisk Road,,Modesto,95354,California,US,United States
+134,Budget Bike Company,AW00000134,Tom Morris,,Millington,38054,Tennessee,US,United States
+135,Wonderful Bikes Inc.,AW00000135,C/O Arrow Electronics,,Memphis,38103,Tennessee,US,United States
+136,Wholesale Parts,AW00000136,655-4th Ave S.W.,,Calgary,T2P 2G8,Alberta,CA,Canada
+137,Transportation Options,AW00000137,25900-700-9th Ave S.W.,,Calgary,T2P 2G8,Alberta,CA,Canada
+138,South Bike Company,AW00000138,Po Box 83270,,Vancouver,V7L 4J4,British Columbia,CA,Canada
+139,Steel Inc.,AW00000139,"5, place de la Concorde",,Colombes,92700,Hauts de Seine,FR,France
+140,Teen Discount Store,AW00000140,Haberstr 29,,Bonn,53131,Hamburg,DE,Germany
+141,Rental Gallery,AW00000141,2520b Underwood Street,,Lavender Bay,2060,New South Wales,AU,Australia
+142,Riding Cycles,AW00000142,Galashiels,,Liverpool,L4 4HB,England,GB,United Kingdom
+143,Modern Bike Store,AW00000143,Saltonstall Parkway,,East Haven,6512,Connecticut,US,United States
+144,Only Bikes and Accessories,AW00000144,123 Union Square South,,New York,10007,New York,US,United States
+145,Raw Materials Inc,AW00000145,Bldg. 9n/99298,,Redmond,98052,Washington,US,United States
+146,Latest Sports Equipment,AW00000146,4251 First Avenue,,Seattle,98104,Washington,US,United States
+147,Local Hardware Factory,AW00000147,42500 W 76th St,,Chicago,60610,Illinois,US,United States
+148,Lots of Bikes Storehouse,AW00000148,4255 East Lies Road,,Carol Stream,60188,Illinois,US,United States
+149,Initial Bike Company,AW00000149,789 West Alameda,,Westminster,80030,Colorado,US,United States
+150,Fleet Bikes,AW00000150,54254 Pacific Ave.,,Stockton,95202,California,US,United States
+151,Futuristic Bikes,AW00000151,25136 Jefferson Blvd.,,Culver City,90232,California,US,United States
+152,Distance Bikes,AW00000152,Park North Business Center,,Clarkston,30021,Georgia,US,United States
+153,Widget Bicycle Specialists,AW00000153,23456 Calumet St,,Clearwater,33755,Florida,US,United States
+154,Camping and Sports Store,AW00000154,400-25155 West Pender St,,Vancouver,V7L 4J4,British Columbia,CA,Canada
+155,Corner Bicycle Supply,AW00000155,2511 Baker Road,,Toronto,M4B 1V7,Ontario,CA,Canada
+156,Metal Processing Company,AW00000156,770 Notre Datme Quest Bureau 800,,Montreal,H1Y 2H7,Quebec,CA,Canada
+157,Ace Bicycle Supply,AW00000157,"36, avenue de la Gare",,Paris,75019,Seine (Paris),FR,France
+158,Rural Sporting Goods,AW00000158,Auf der Krone 53,,Bonn,53131,Nordrhein-Westfalen,DE,Germany
+159,Uncompromising Quality Co,AW00000159,65 Epping Road,,North Ryde,2113,New South Wales,AU,Australia
+160,Vigorous Sports Store,AW00000160,Banbury,,Oxon,OX16 8RS,England,GB,United Kingdom
+161,Weekend Tours,AW00000161,42522 Northrupp,,Fort Wayne,46807,Indiana,US,United States
+162,Tire Company,AW00000162,675 East Ave.,,Warwick,2889,Rhode Island,US,United States
+163,Sports Merchandise,AW00000163,558 S 6th St,,Klamath Falls,97601,Oregon,US,United States
+164,Suburban Cycle Shop,AW00000164,994 Sw Cherry Park Rd,,Troutdale,97060,Oregon,US,United States
+165,Third Bike Store,AW00000165,2500 North Stemmons Freeway,,Dallas,75201,Texas,US,United States
+166,Fitness Toy Store,AW00000166,220 Mercy Drive,,Garland,75040,Texas,US,United States
+167,Farthermost Bike Shop,AW00000167,99000 S. Avalon Blvd. Suite 750,,Carson,90746,California,US,United States
+168,Economy Bikes Company,AW00000168,72502 Eastern Ave.,,Bell Gardens,90201,California,US,United States
+169,Downtown Hotel,AW00000169,2560 E. Newlands Dr,,Fernley,89408,Nevada,US,United States
+170,Excellent Riding Supplies,AW00000170,"6555 Quince Road, Suite 2025",,Memphis,38103,Tennessee,US,United States
+171,Eighty Toy Stores,AW00000171,2025 Greenwood Ct,,Mcdonough,30253,Georgia,US,United States
+172,Certified Sports Supply,AW00000172,250551 Shellbridge Way,,Richmond,V6B 3P7,British Columbia,CA,Canada
+173,Sundry Sporting Goods,AW00000173,595 Burning Street,,Vancouver,V7L 4J4,British Columbia,CA,Canada
+174,Toy Manufacturing Inc,AW00000174,252345 8810th Avenue,,Surrey,V3T 4W3,British Columbia,CA,Canada
+175,Registered Cycle Store,AW00000175,"26, rue Saint Denis",,Orleans,45000,Loiret,FR,France
+176,Rodeway Bike Store,AW00000176,Winterfeldtstr 5557,Kreditorenbuchhaltung,Münster,48001,Saarland,DE,Germany
+177,Plastic Products Manufacturers,AW00000177,5525 Glenferrie Road,,Hawthorne,4171,Queensland,AU,Australia
+178,Rampart Amusement Company,AW00000178,Bradford,"Raven House, Kingsgate",W. York,BD1 4SJ,England,GB,United Kingdom
+179,Fourth Bike Store,AW00000179,77993 Mentor Ave.,,Mentor,44060,Ohio,US,United States
+180,Full-Service Bike Store,AW00000180,9920 North Telegraph Rd.,,Pontiac,48342,Michigan,US,United States
+181,Family Entertainment Center,AW00000181,25718 Se Sunnyside Rd,,Clackamas,97015-6403,Oregon,US,United States
+182,Another Bicycle Company,AW00000182,567 Sw Mcloughlin Blvd,,Milwaukie,97222,Oregon,US,United States
+183,This Area Sporting Goods,AW00000183,25 N State St,,Chicago,60610,Illinois,US,United States
+184,Go-cart and Bike Specialists,AW00000184,2509 W. Frankford,,Carrollton,75006,Texas,US,United States
+185,Weekend Bike Tours,AW00000185,630 N. Capitol Ave.,,San Jose,95112,California,US,United States
+186,Thrilling Bike Tours,AW00000186,4660 Rodeo Road,,Santa Fe,87501,New Mexico,US,United States
+187,Trailblazing Sports,AW00000187,251340 E. South St.,,Cerritos,90703,California,US,United States
+188,Variety Bike Outlet,AW00000188,83995 South Dixie Highway,,Miami,33127,Florida,US,United States
+189,Principal Bicycle Supply,AW00000189,39950 Airport Blvd.,,Mobile,36602,Alabama,US,United States
+190,Racing Partners,AW00000190,2512-410th Avenue S.W.,,Calgary,T2P 2G8,Alberta,CA,Canada
+191,Non-Slip Pedal Company,AW00000191,258 King Street East,,Toronto,M4B 1V7,Ontario,CA,Canada
+192,Nuts and Bolts Mfg.,AW00000192,6th Floor Ferguson Block,,Toronto,M4B 1V7,Ontario,CA,Canada
+193,Perfect Toys,AW00000193,"68081, place du Tertre",,Colomiers,31770,Garonne (Haute),FR,France
+194,Mechanical Brake Manufacturers,AW00000194,Alte Landstr 776,,München,80074,Hamburg,DE,Germany
+195,Inexpensive Parts Shop,AW00000195,2253 Miller Street,,North Sydney,2055,New South Wales,AU,Australia
+196,Exhibition Showroom,AW00000196,"Garamonde Drive, Wymbush",P.O. Box 803,Milton Keynes,MK8 8ZD,England,GB,United Kingdom
+197,"Fabrikam Inc., West",AW00000197,46460 West Oaks Drive,,Novi,48375,Michigan,US,United States
+198,Field Trip Inc,AW00000198,997000 Telegraph Rd.,,Southfield,48034,Michigan,US,United States
+199,Authorized Bike Sales and Rental,AW00000199,490 Ne 4th St,,Renton,98055,Washington,US,United States
+200,Basic Bike Company,AW00000200,15 East Main,,Port Orchard,98366,Washington,US,United States
+201,Unsurpassed Bikes,AW00000201,Po Box 8035996,,Dallas,75201,Texas,US,United States
+202,Two-Seater Bikes,AW00000202,5700 Legacy Dr,,Plano,75074,Texas,US,United States
+203,Separate Parts Corporation,AW00000203,440 West Huntington Dr.,,Monrovia,91016,California,US,United States
+204,Traction Tire Company,AW00000204,99235 Hawthorne Blvd.,,Torrance,90505,California,US,United States
+205,Rally Master Company Inc,AW00000205,870 N. 54th Ave.,,Chandler,85225,Arizona,US,United States
+206,New and Used Bicycles,AW00000206,3990 Silas Creek Parkway,,Winston-Salem,27104,North Carolina,US,United States
+207,Lubricant and Grease Suppliers,AW00000207,956k North Wesleyan Blvd.,,Rocky Mount,27803,North Carolina,US,United States
+208,Professional Cyclists,AW00000208,2545 King Street West,,Toronto,M4B 1V7,Ontario,CA,Canada
+209,Purple Bicycle Company,AW00000209,2550 Middlefield Road,,Scarborough,M1V 4M2,Ontario,CA,Canada
+210,Gasless Cycle Shop,AW00000210,25 First Canadian Place,,Toronto,M4B 1V5,Ontario,CA,Canada
+211,Sports Products Store,AW00000211,"98, rue de Terre Neuve",,Lieusaint,77127,Seine et Marne,FR,France
+212,Enterprise Center,AW00000212,Kurfürstenstr 574,,München,80074,Hessen,DE,Germany
+213,Fast Bike Works,AW00000213,Level 100,77 Southbank Boulevard,South Melbourne,3205,Victoria,AU,Australia
+214,Exclusive Bicycle Mart,AW00000214,"Butterfield Hse, 7-251 Chapel St",,Lancaster,LA1 1LN,England,GB,United Kingdom
+215,Eleventh Bike Store,AW00000215,25850 Post Road,,Westport,6880,Connecticut,US,United States
+216,Painters Bicycle Specialists,AW00000216,9975 Union St.,,Waterbury,6710,Connecticut,US,United States
+217,City Manufacturing,AW00000217,3025 E Waterway Blvd,,Shelton,98584,Washington,US,United States
+218,Sure & Reliable Sporting Goods,AW00000218,7990 Ocean Beach Hwy.,,Longview,98632,Washington,US,United States
+219,Extras Sporting Goods,AW00000219,625 W Jackson Blvd. Unit 2502,,Chicago,60610,Illinois,US,United States
+220,Best o' Bikes,AW00000220,250880 Baur Blvd,,Saint Louis,63103,Missouri,US,United States
+221,Bike Dealers Association,AW00000221,9952 E. Lohman Ave.,,Las Cruces,88001,New Mexico,US,United States
+222,Sample Bike Store,AW00000222,2000 300th Street,,Denver,80203,Colorado,US,United States
+223,Paints and Solvents Company,AW00000223,955 E. County Line Rd.,,Englewood,80110,Colorado,US,United States
+224,Pedal Systems Company,AW00000224,656 Cox Creek Pkwy.,,Florence,35630,Alabama,US,United States
+225,Optimal Bikes,AW00000225,25050 S. Columbia Ave,,Campbellsville,42718,Kentucky,US,United States
+226,Leisure Activities,AW00000226,65 Gamelin Street,,Hull,8Y,Quebec,CA,Canada
+227,"Health Spa, Limited",AW00000227,2500 University Avenue,,Toronto,M4B 1V5,Ontario,CA,Canada
+228,Home Town Bike Store,AW00000228,955 Green Valley Crescent,,Ottawa,K4B 1S1,Ontario,CA,Canada
+229,Instant Cycle Store,AW00000229,"21801, rue Léo Delibes",,Colombes,92700,Hauts de Seine,FR,France
+230,Global Bike Retailers,AW00000230,Königsteiner Straße 9,,Bad Soden,65800,Hessen,DE,Germany
+231,Helmets and Cycles,AW00000231,Rosebery,,Lavender Bay,2060,New South Wales,AU,Australia
+232,Exceptional Cycle Services,AW00000232,Wade Road,,Basingstoke Hants,RG24 8PL,England,GB,United Kingdom
+233,Fashionable Department Stores,AW00000233,7505 Commercial Dr.,,New Hartford,13413,New York,US,United States
+234,Eastside Sporting Goods,AW00000234,89950 Castleton Corner,,Indianapolis,46204,Indiana,US,United States
+235,Certified Bicycle Supply,AW00000235,2345 West Spencer Road,,Lynnwood,98036,Washington,US,United States
+236,Closeout Boutique,AW00000236,1050 Oak Street,,Seattle,98104,Washington,US,United States
+237,Client Discount Store,AW00000237,Noah Lane,,Chicago,60610,Illinois,US,United States
+238,A Great Bicycle Company,AW00000238,6030 Robinson Road,,Jefferson City,65101,Missouri,US,United States
+239,Bicycle Merchandise Warehouse,AW00000239,409 Santa Monica Blvd.,,Santa Monica,90401,California,US,United States
+240,Wire Baskets and Parts,AW00000240,Mall Of Orange,,Orange,92867,California,US,United States
+241,Vale Riding Supplies,AW00000241,Topanga Plaza,,Canoga Park,91303,California,US,United States
+242,Spoke Manufacturers,AW00000242,2545 N.W. 107th Ave.,,Miami,33127,Florida,US,United States
+243,Recreation Supplies,AW00000243,8789 S.W. 2517 Ave.,,Kendall,33143,Florida,US,United States
+244,Retail Discount Store,AW00000244,2510 Crew Court,,Montreal,H1Y 2H8,Quebec,CA,Canada
+245,Leather Seat Factory,AW00000245,"9900-6400 Boul, Taschereau",,Brossard,J4Z 1R4,Quebec,CA,Canada
+246,Large Bike Shop,AW00000246,600 Boul. Rene-levesque Ouest,,Montreal,H1Y 2H7,Quebec,CA,Canada
+247,Major Amusement Company,AW00000247,"2111, rue de Linois",,Orly,94310,Val de Marne,FR,France
+248,Good Bicycle Store,AW00000248,Werftstr 4400,,Sulzbach Taunus,66272,Saarland,DE,Germany
+249,Helpful Sales and Repair Service ,AW00000249,Licensing Account,,Seaford,3198,Victoria,AU,Australia
+250,Express Bike Services,AW00000250,"586 Fulham Road,",,London,SW6 SBY,England,GB,United Kingdom
+251,Endurance Bikes,AW00000251,99200 Dixwell Ave.,,Hamden,6518,Connecticut,US,United States
+252,Classic Cycle Store,AW00000252,630 Oldgate Lane,,Milford,6460,Connecticut,US,United States
+253,Roving Sports,AW00000253,4927 S Meridian Ave Ste D,,Puyallup,98371,Washington,US,United States
+254,Safe Cycles Shop,AW00000254,25915 140th Ave Ne,,Bellevue,98004,Washington,US,United States
+255,Swift Cycles,AW00000255,25500 Old Spanish Trail,,Houston,77003,Texas,US,United States
+256,Rental Bikes,AW00000256,"99828 Routh Street, Suite 825",,Dallas,75201,Texas,US,United States
+257,Number 1 Supply,AW00000257,Escondido,,Escondido,92025,California,US,United States
+258,Quantity Discounts,AW00000258,Natomas Marketplace,,Sacramento,95814,California,US,United States
+259,Highway Bike Shop,AW00000259,Simi @ The Plaza,,Simi Valley,93065,California,US,United States
+260,Industrial Supplies,AW00000260,825 Coral Way,,Miami,33127,Florida,US,United States
+261,Functional Store North,AW00000261,650 E Altamonte Dr,,Altamonte Springs,32701,Florida,US,United States
+262,General Industries,AW00000262,9259 - 1110th Avenue Sw,,Calgary,T2P 2G8,Alberta,CA,Canada
+263,Farthest Bike Store,AW00000263,45259 Canada Way,,Burnaby,V5G 4S4,British Columbia,CA,Canada
+264,Fasteners & Bolts Outlet,AW00000264,9960 King Street E.,,Toronto,M4B 1V5,Ontario,CA,Canada
+265,Full Sports Supply,AW00000265,"39, route de Marseille",,Paris,75016,Seine (Paris),FR,France
+266,Excellent Bikes,AW00000266,Hans-Rosenthal-Platz 4223,,Grevenbroich,41485,Bayern,DE,Germany
+267,Cycle Parts and Accessories,AW00000267,Level 99,12 South 10th Avenue,Melbourne,3000,Victoria,AU,Australia
+268,Channel Outlet,AW00000268,Knaves Beech Ind.,,High Wycombe,HP10 9QY,England,GB,United Kingdom
+269,Curbside Universe,AW00000269,25264 E. 260th,,Euclid,44119,Ohio,US,United States
+270,Active Transport Inc.,AW00000270,225200 Miles Ave.,,North Randall,44128,Ohio,US,United States
+271,Alternative Vehicles,AW00000271,3307 Evergreen Blvd,Ste 1071,Washougal,98671,Washington,US,United States
+272,Metro Cycle Shop,AW00000272,2507 Pacific Ave S,,Tacoma,98403,Washington,US,United States
+273,A Typical Bike Shop,AW00000273,"One Dancing, Rr No. 25",Box 8033,Round Rock,78664,Texas,US,United States
+274,Active Systems,AW00000274,9995 West Central Entrance,,Duluth,55802,Minnesota,US,United States
+275,Outdoor Sporting Goods,AW00000275,Lakewood Mall,,Lakewood,90712,California,US,United States
+276,Thrifty Parts and Sales,AW00000276,Oxnard Outlet,,Oxnard,93030,California,US,United States
+277,The Bicycle Accessories Company,AW00000277,Vista Marketplace,,Alhambra,91801,California,US,United States
+278,Tread Industries,AW00000278,25631 Florida Mall Ave.,,Orlando,32804,Florida,US,United States
+279,Reliable Brake Systems,AW00000279,770 South Point Dr,,Memphis,38103,Tennessee,US,United States
+280,Standard Bikes,AW00000280,9979 Bayview Drive,,Barrie,L4N,Ontario,CA,Canada
+281,Petroleum Products Distributors,AW00000281,20225 Lansing Ave,,Montreal,H1Y 2H7,Quebec,CA,Canada
+282,Quick Parts and Service,AW00000282,"99954 Boul. Laurier, Local 060, Place",,Sainte-Foy,G1W,Quebec,CA,Canada
+283,Racing Supply Distributors,AW00000283,"57, rue des Vendangeurs",,Roissy en Brie,77680,Seine et Marne,FR,France
+284,Nearby Bike Mall,AW00000284,Nonnendamm 63,,Berlin,14197,Nordrhein-Westfalen,DE,Germany
+285,Nearest Bike Store,AW00000285,Ctrcrt Bus Pk/995-27 Paul St N,,North Ryde,2113,New South Wales,AU,Australia
+286,Number One Bike Co.,AW00000286,"Elmhurst Road, Goring",,Reading,RG7 5H7,England,GB,United Kingdom
+287,Handy Bike Services,AW00000287,399700 John R. Rd.,,Madison Heights,48071,Michigan,US,United States
+288,Kickstand Sellers,AW00000288,6789 Warren Road,,Westland,48185,Michigan,US,United States
+289,Moderately-Priced Bikes Store,AW00000289,67 Rainer Ave S,,Renton,98055,Washington,US,United States
+290,Friendly Bike Shop,AW00000290,750 Lakeway Dr,,Bellingham,98225,Washington,US,United States
+291,Grand Bicycle Stores,AW00000291,48255 I-10 E. @ Eastpoint Blvd.,,Baytown,77520,Texas,US,United States
+292,Grease and Oil Products Company,AW00000292,9903 Highway 6 South,,Houston,77003,Texas,US,United States
+293,Fashionable Bikes and Accessories,AW00000293,Sports Store At Park City,,Park City,84098,Utah,US,United States
+294,Flawless Bike Shop,AW00000294,North County Square,,Vista,92084,California,US,United States
+295,Engineered Bike Systems,AW00000295,123 Camelia Avenue,,Oxnard,93030,California,US,United States
+296,Extreme Toy Store,AW00000296,7725 Luddington Lane,,Birmingham,35203,Alabama,US,United States
+297,Blue-Ribbon Bike Company,AW00000297,790 Shelbyville Road,,Saint Matthews,40207,Kentucky,US,United States
+298,City Cycling,AW00000298,6th Floor 5250 Main Street,,Winnipeg,R3,Manitoba,CA,Canada
+299,Citywide Service and Repair,AW00000299,Box 99354 300 Union Street,,Saint John,E2P 1E3,Brunswick,CA,Canada
+300,Nice Bikes,AW00000300,Suite 800 2530 Slater Street,,Ottawa,K4B 1T7,Ontario,CA,Canada
+301,Rural Mountain Bike Mart,AW00000301,"98, rue Montcalm",,Paris,75019,Seine (Paris),FR,France
+302,Best Cycle Store,AW00000302,Berliner Platz 45,,Offenbach,63009,Saarland,DE,Germany
+303,Seaside Bike Works,AW00000303,2501 Miller Street,,North Sydney,2055,New South Wales,AU,Australia
+304,Essential Bike Works,AW00000304,"New Millhouse, 2583 Milton Park",,Abingdon,OX14 4SE,England,GB,United Kingdom
+305,Professional Sporting Goods,AW00000305,42500 South Franklin Street,,Michigan City,46360,Indiana,US,United States
+306,Work and Play Association,AW00000306,2533 Eureka Rd.,,Southgate,48195,Michigan,US,United States
+307,Riding Associates,AW00000307,2528 Meridian E,,Puyallup,98371,Washington,US,United States
+308,Rugged Bikes,AW00000308,48995 Evergreen Wy.,,Everett,98201,Washington,US,United States
+309,The Gear Store,AW00000309,2345 North Freeway,,Houston,77003,Texas,US,United States
+310,Orange Bicycle Company,AW00000310,123 W. Lake Ave.,,Peoria,61606,Illinois,US,United States
+311,Principal Bike Company,AW00000311,Mountain Square,,Upland,91786,California,US,United States
+312,Resale Services,AW00000312,Fox Hills,,Culver City,90232,California,US,United States
+313,Metropolitan Manufacturing,AW00000313,Parkway Plaza,,El Cajon,92020,California,US,United States
+314,One-Piece Handle Bars,AW00000314,4496 Barnes Crossing Rd.,,Tupelo,38804,Mississippi,US,United States
+315,Juvenile Sports Equipment,AW00000315,78025 E. Mercy Island Cswy,,Merritt Island,32952,Florida,US,United States
+316,Low Price Cycles,AW00000316,Suite 500 995 W. 11th Avenue,,Mississauga,L5A 1H6,Ontario,CA,Canada
+317,Finer Riding Supplies,AW00000317,#9900 2700 Production Way,,Burnaby,V5A 4X1,British Columbia,CA,Canada
+318,First-Rate Outlet,AW00000318,25537 Hillside Avenue,,Victoria,V8V,British Columbia,CA,Canada
+319,Cycles Sales and Repair,AW00000319,"3387, rue Marbeuf",,Bobigny,93000,Seine Saint Denis,FR,France
+320,Amalgamated Parts Shop,AW00000320,Brunnenstr 422,,Frankfurt am Main,60082,Hamburg,DE,Germany
+321,Second Bike Shop,AW00000321,6 Lord Street,,Matraville,2036,New South Wales,AU,Australia
+322,Tachometers and Accessories,AW00000322,Wymbush,,Milton Keynes,MK8 8DF,England,GB,United Kingdom
+323,Metro Bike Works,AW00000323,250000 Eight Mile Road,,Detroit,48226,Michigan,US,United States
+324,A Bicycle Association,AW00000324,6405 Erie Blvd. Hills Plaza,,De Witt,13214,New York,US,United States
+325,All Cycle Shop,AW00000325,8713 Yosemite Ct.,,Bothell,98011,Washington,US,United States
+326,Year-Round Sports,AW00000326,2583 Se 272nd St,,Kent,98031,Washington,US,United States
+327,World of Bikes,AW00000327,660 Lindbergh,,Saint Louis,63103,Missouri,US,United States
+328,Totes & Baskets Company,AW00000328,72540 Blanco Rd.,,San Antonio,78204,Texas,US,United States
+329,"Unicycles, Bicycles, and Tricycles",AW00000329,Stonewood Mall,,Downey,90241,California,US,United States
+330,The New Bike Store,AW00000330,Hanford Mall,,Hanford,93230,California,US,United States
+331,Technical Parts Manufacturing,AW00000331,Ontario Mills,,Ontario,91764,California,US,United States
+332,Topnotch Bikes,AW00000332,574 Atlanta Highway,,Montgomery,36104,Alabama,US,United States
+333,Resident Cycle Shop,AW00000333,5230a Hwy. 2553,,Hixson,37343,Tennessee,US,United States
+334,Retreat Inn,AW00000334,Suite 2502 410 Albert Street,,Waterloo,N2V,Ontario,CA,Canada
+335,Scratch-Resistant Finishes Company,AW00000335,5700 Explorer Drive,,Mississauga,L4W 5J3,Ontario,CA,Canada
+336,Primary Bike Distributors,AW00000336,965 De La Gauchetiere West,,Montreal,H1Y 2H8,Quebec,CA,Canada
+337,Recreation Toy Store,AW00000337,"39, avenue des Laurentides",,Paris La Defense,92081,Hauts de Seine,FR,France
+338,Rambling Tours,AW00000338,Rotthäuser Weg 511,,Stuttgart,70511,Saarland,DE,Germany
+339,Major Bicycle Store,AW00000339,Level 6,538 Climbing Street,Matraville,2036,New South Wales,AU,Australia
+340,Nearby Cycle Shop,AW00000340,Burgess Hill,Edward Way,West Sussex,RH15 9UD,England,GB,United Kingdom
+341,Independent Outlet,AW00000341,Great Northern Mall Hwy4 & Rt. 31,,Clay,13041,New York,US,United States
+342,Leather and Vinyl Manufacturing,AW00000342,250 E. County Line Rd.,,Indianapolis,46204,Indiana,US,United States
+343,Mail-Order Outlet,AW00000343,409 S. Main Ste. 25,,Ellensburg,98926,Washington,US,United States
+344,Fifth Bike Store,AW00000344,2502 Evergreen Ste E,,Everett,98201,Washington,US,United States
+345,Genial Bike Associates,AW00000345,99450 Highway 59 North,,Humble,77338,Texas,US,United States
+346,Great Bicycle Supply,AW00000346,455 256th St.,,Moline,61265,Illinois,US,United States
+347,Bike Universe,AW00000347,Nut Tree Factory,,Vacaville,95688,California,US,United States
+348,Bold Bike Accessories,AW00000348,Rocky Mountain Pines Outlet,,Loveland,80537,Colorado,US,United States
+349,Exercise Center,AW00000349,Stevens Creek Shopping Center,,San Jose,95112,California,US,United States
+350,Mountain Emporium,AW00000350,25800 Gallitin Rd.,,Nashville,37203,Tennessee,US,United States
+351,Acclaimed Bicycle Company,AW00000351,830 Highway 499 So,,Mcdonough,30253,Georgia,US,United States
+352,Twelfth Bike Store,AW00000352,No. 25400 10665 Jasper Avenue,,Edmonton,T5,Alberta,CA,Canada
+353,Two-Wheeled Transit Company,AW00000353,P.O. Box 44000,,Winnipeg,R3,Manitoba,CA,Canada
+354,Serious Cycles,AW00000354,Suite 99320 255 - 510th Avenue S.W.,,Calgary,T2P 2G8,Alberta,CA,Canada
+355,Spare Parts Co.,AW00000355,"3101, avenue de Malakoff",,Paris,75003,Seine (Paris),FR,France
+356,Speedometer Sales,AW00000356,Am Karlshof 8200,,Hamburg,22001,Hessen,DE,Germany
+357,Quality Bike Sales,AW00000357,P.O. Box 990032,,Findon,5023,South Australia,AU,Australia
+358,Mail Market,AW00000358,308-3250 Casting Road,,York,Y024 1GF,England,GB,United Kingdom
+359,Mechanical Sports Center,AW00000359,6225 Glenway Ave.,,Cincinnati,45202,Ohio,US,United States
+360,Novelty Bikes,AW00000360,998 Forest Road,,Saginaw,48601,Michigan,US,United States
+361,Fitness Supplies,AW00000361,755 W Washington Ave Ste D,,Sequim,98382,Washington,US,United States
+362,Grand Cycle Store,AW00000362,44606 N Division St,,Spokane,99202,Washington,US,United States
+363,Immense Manufacturing Company,AW00000363,70 N.W. Plaza,,Saint Ann,63074,Missouri,US,United States
+364,District Mall,AW00000364,25095 W. Florissant,,Ferguson,63135,Missouri,US,United States
+365,Distinctive Store,AW00000365,Factory Merchants,,Barstow,92311,California,US,United States
+366,Extended Bike Sales,AW00000366,The Citadel Commerce Plaza,,City Of Commerce,90040,California,US,United States
+367,Brown Bicycle Company,AW00000367,University Town Center,,San Diego,92102,California,US,United States
+368,Elemental Sporting Goods,AW00000368,99842 White Mill East,,Decatur,30030,Georgia,US,United States
+369,Distinctive Cycles Sales & Service,AW00000369,Turfway Retail Center,,Florence,41042,Kentucky,US,United States
+370,Acceptable Sales & Service,AW00000370,"6400, 888 - 3rd Avenue",,Calgary,T2P 2G8,Alberta,CA,Canada
+371,Custom Sales and Service,AW00000371,255117 - 101 Avenue,,Surrey,V3T 4W3,British Columbia,CA,Canada
+372,Top Bike Market,AW00000372,975 Princess Street,,Kingston,7L,Ontario,CA,Canada
+373,Township Inn,AW00000373,"61, rue Henri Gagnon",,Les Ulis,91940,Essonne,FR,France
+374,Major Equipment Co,AW00000374,Holzstr 6444,,Salzgitter,38231,Hessen,DE,Germany
+375,Region Bike Company,AW00000375,P O Box 72569,,East Brisbane,4169,Queensland,AU,Australia
+376,Commerce Bicycle Specialists,AW00000376,Wharfdale Road,,Berkshire,RG11 5TP,England,GB,United Kingdom
+377,Grand Sport Boutique,AW00000377,99800 Tittabawasee Rd.,,Saginaw,48601,Michigan,US,United States
+378,Grown-up Bike Store,AW00000378,25192 Princeton Rd.,,Springdale,45246,Ohio,US,United States
+379,Fad Outlet,AW00000379,2550 Ne Sandy Blvd,,Portland,97205,Oregon,US,United States
+380,First Department Stores,AW00000380,2540 Dell Range Blvd,,Cheyenne,82001,Wyoming,US,United States
+381,Bicycle Lines Distributors,AW00000381,6996 South Lindbergh,,Saint Louis,63103,Missouri,US,United States
+382,Beneficial Exercises and Activities,AW00000382,6425 Nw Loop 410,,San Antonio,78204,Texas,US,United States
+383,Vehicle Shop,AW00000383,Pavillion @ Redlands,,Redlands,92373,California,US,United States
+384,Sparkling Paint and Finishes,AW00000384,San Diego Factory,,San Ysidro,92173,California,US,United States
+385,Sturdy Toys,AW00000385,Pacific West Outlet,,Gilroy,95020,California,US,United States
+386,Touring Services,AW00000386,25 Myrtle Beach,,Myrtle Beach,29577,South Carolina,US,United States
+387,Racing Association,AW00000387,Parkway City Mall,,Huntsville,35801,Alabama,US,United States
+388,Road Way Sales and Rental,AW00000388,2900 - 25055 Dunning Street,,Vancouver,V7L 4J4,British Columbia,CA,Canada
+389,Sixth Bike Store,AW00000389,Suite 25800 3401 - 10810th Avenue,,Surrey,V3T 4W3,British Columbia,CA,Canada
+390,Plastic Parts Company,AW00000390,750 Philip Street,,Waterloo,N2V,Ontario,CA,Canada
+391,Pretty Bikes and Toys,AW00000391,"9005, rue des Bouchers",,Paris,75005,Seine (Paris),FR,France
+392,Primary Cycle Shop,AW00000392,Am Grossen Dern 982,,Hamburg,20354,Hamburg,DE,Germany
+393,Gears and Parts Company,AW00000393,2nd Floor,55 Lavender Street,Milsons Point,2061,New South Wales,AU,Australia
+394,Little Sports Center,AW00000394,7 Pioneer Business Park,,York,Y03 4TN,England,GB,United Kingdom
+395,Online Bike Sellers,AW00000395,678 Eastman Ave.,,Midland,48640,Michigan,US,United States
+396,Executive Gift Store,AW00000396,New Castle Plaza,,New Castle,47362,Indiana,US,United States
+397,Capable Sales and Service,AW00000397,765 Delridge Way Sw,,Seattle,98104,Washington,US,United States
+398,Commendable Bikes,AW00000398,4781 Highway 95,,Sandpoint,83864,Idaho,US,United States
+399,Big Cycle Mall,AW00000399,9500b E. Central Texas Expressway,,Killeen,76541,Texas,US,United States
+400,Local Sales and Rental,AW00000400,1200 First Ave.,,Joliet,60433,Illinois,US,United States
+401,Brightwork Company,AW00000401,Belz Factory Outlet,,Las Vegas,89106,Nevada,US,United States
+402,Pro Sporting Goods,AW00000402,Camarillo Athletic Stores,,Camarillo,93010,California,US,United States
+403,Affordable Sports Equipment,AW00000403,Lake Elisnor Place,,Lake Elsinore,92530,California,US,United States
+404,Activity Center,AW00000404,Factory Stores Of America,,Crossville,38555,Tennessee,US,United States
+405,Sporting Goods and Bicycle Shop,AW00000405,Fort Henry Mall,,Kingsport,37660,Tennessee,US,United States
+406,The Commissary,AW00000406,"Bureau 9900 825, Avenue Querbes",,Outremont,H1Y 2G5,Quebec,CA,Canada
+407,Workout Emporium,AW00000407,700 Bureau Road,,Montreal,H1Y 2H7,Quebec,CA,Canada
+408,Odometers and Accessories Company,AW00000408,"253711 Mayfield Place, Unit 150",,Richmond,V6B 3P7,British Columbia,CA,Canada
+409,Outdoor Toy Store,AW00000409,"18, rue de l´Esplanade",,Aujan Mournede,32300,Gers,FR,France
+410,Pedaling Components,AW00000410,Conesweg 49,,Kiel,24044,Saarland,DE,Germany
+411,Kids and Adults Cycle Shop,AW00000411,258 Berry Street,,North Sydney,2055,New South Wales,AU,Australia
+412,Leisure Clearing House,AW00000412,Unit 99a Battery Retail Pk,,Birmingham,B29 6SL,England,GB,United Kingdom
+413,Margie's Travel,AW00000413,Woodbury Commons,,Central Valley,10917,New York,US,United States
+414,Grand Discount Store,AW00000414,Indiana Factory Shops,,Daleville,47334,Indiana,US,United States
+415,Imaginary Toys,AW00000415,4210 E Sprague Ave,,Spokane,99202,Washington,US,United States
+416,Impromptu Trips,AW00000416,Valley Mall,,Union Gap,98903,Washington,US,United States
+417,Genuine Bike Shop,AW00000417,7760 N. Pan Am Expwy,,San Antonio,78204,Texas,US,United States
+418,Good Bike Shop,AW00000418,99433 S. Greenbay Rd.,,Racine,53182,Wisconsin,US,United States
+419,Exertion Activities Club,AW00000419,Norwalk Square,,Norwalk,90650,California,US,United States
+420,Extreme Riding Supplies,AW00000420,Riverside,,Sherman Oaks,91403,California,US,United States
+421,Fitness Cycling,AW00000421,The Quad @ WestView,,Whittier,90605,California,US,United States
+422,Consolidated Sales,AW00000422,Carolina Factory Shops,,Gaffney,29340,South Carolina,US,United States
+423,Bike Rims Company,AW00000423,Edgewater Mall,,Biloxi,39530,Mississippi,US,United States
+424,Bikes for Two,AW00000424,63 West Beaver Creek,,Richmond Hill,L4E 3M5,Ontario,CA,Canada
+425,Bikes for Kids and Adults,AW00000425,9900 Ronson Drive,,Etobicoke,M9W 3P3,Ontario,CA,Canada
+426,Custom Accessories Company,AW00000426,251 Indell Lane,,Brampton,L6W 2T7,Ontario,CA,Canada
+427,Atypical Bike Company,AW00000427,"7551, avenue Foch",,Paris,75010,Seine (Paris),FR,France
+428,West Wind Distributors,AW00000428,Krönerweg 9249,,Hannover,30601,Nordrhein-Westfalen,DE,Germany
+429,Unusual Bicycle Company,AW00000429,85 Egerton Street,,Silverwater,2264,New South Wales,AU,Australia
+430,Uttermost Bike Shop,AW00000430,Ellesfield Ave,,Bracknell,RG12 8TB,England,GB,United Kingdom
+431,Small Cycle Store,AW00000431,Horizon Outlet Center,,Holland,49423,Michigan,US,United States
+432,Super Sports Store,AW00000432,Washington Square Ii,,Indianapolis,46204,Indiana,US,United States
+433,Thorough Parts and Repair Services,AW00000433,S Sound Ctr Suite 25300,,Lacey,98503,Washington,US,United States
+434,Road-Way Mart,AW00000434,Southgate Mall,,Missoula,59801,Montana,US,United States
+435,Satin Finish Company,AW00000435,25220 Airline Road,,Corpus Christi,78404,Texas,US,United States
+436,Sheet Metal Manufacturing,AW00000436,25306 Harvey Rd.,,College Station,77840,Texas,US,United States
+437,Professional Cycle Store,AW00000437,Arcadia Crossing,,Phoenix,85004,Arizona,US,United States
+438,Remarkable Bike Store,AW00000438,Eastern Beltway Center,,Las Vegas,89106,Nevada,US,United States
+439,Regional Manufacturing,AW00000439,Factory Stores/tucson,,Tucson,85701,Arizona,US,United States
+440,Hobby Store,AW00000440,Highland Lakes Shopping Ctr.,,Orlando,32804,Florida,US,United States
+441,Leading Bike Distributors,AW00000441,Grand Central Place,,Somerset,42501,Kentucky,US,United States
+442,Original Bicycle Supply Company,AW00000442,2573 Dufferin Street,,Toronto,M4B 1V5,Ontario,CA,Canada
+443,Courteous Bicycle Specialists,AW00000443,995 Crescent,,Richmond Hill,L4E 3M5,Ontario,CA,Canada
+444,Finer Cycle Shop,AW00000444,2500-622 5th Ave Sw,,Calgary,T2P 2G8,Alberta,CA,Canada
+445,First Center,AW00000445,"22, rue Lafayette",,Pantin,93500,Seine Saint Denis,FR,France
+446,Fitness Toys,AW00000446,Auf Der Steige 1000,,Berlin,14111,Hamburg,DE,Germany
+447,Cross-town Parts Shop,AW00000447,Po Box 25484,,Springwood,2777,New South Wales,AU,Australia
+448,Action Bicycle Specialists,AW00000448,Warrington Ldc Unit 25/2,,Woolston,WA1 4SY,England,GB,United Kingdom
+449,Bike Products and Accessories,AW00000449,Regency Hilltop Shopping Cntr,,Virginia Beach,23451,Virginia,US,United States
+450,Bikes Anyone?,AW00000450,Ames Plaza,,Saugus,1906,Massachusetts,US,United States
+451,Roadway Bike Emporium,AW00000451,Medford,,Medford,97504,Oregon,US,United States
+452,A Cycle Shop,AW00000452,Heritage Mall,,Albany,97321,Oregon,US,United States
+453,Unique Bikes,AW00000453,3900 S. 997th St.,,Milwaukee,53202,Wisconsin,US,United States
+454,Sleek Bikes ,AW00000454,44025 W. Empire,,Denby,57716,South Dakota,US,United States
+455,Timely Shipping Service,AW00000455,Viejas Outlet Center,,Alpine,91901,California,US,United States
+456,Riding Excursions,AW00000456,West Park Plaza,,Irvine,92614,California,US,United States
+457,Retail Sporting Equipment,AW00000457,Factory Stores Of America,,Mesa,85201,Arizona,US,United States
+458,Simple Bike Parts,AW00000458,Silver Sands Factory Outlet,,Destin,32541,Florida,US,United States
+459,Parts Shop,AW00000459,West Georgia Commons,,La Grange,30240,Georgia,US,United States
+460,Price-Cutter Discount Bikes,AW00000460,6700 Boul Taschereau,,Brossard,J4Z 1C5,Quebec,CA,Canada
+461,Active Life Toys,AW00000461,55 Standish Court,,Mississauga,L5B 3V4,Ontario,CA,Canada
+462,General Riding Supplies,AW00000462,"43251 Viking Way, Unit 130",,Richmond,V6B 3P7,British Columbia,CA,Canada
+463,Brand New Bikes,AW00000463,"215, avenue Reille",,Les Ulis,91940,Essonne,FR,France
+464,Educational Services,AW00000464,Wallstr 244,,Saarbrücken,66001,Saarland,DE,Germany
+465,Expert Cycle Store,AW00000465,Orwith Center,39 Herbert Street,St. Leonards,2065,New South Wales,AU,Australia
+466,Central Bicycle Specialists,AW00000466,"6 The Farm, Liberty Road",,Maidenhead,SL67RJ,England,GB,United Kingdom
+467,The Cycle Store,AW00000467,The Corner Shopping Center,,Falls Church,22046,Virginia,US,United States
+468,Blue Bicycle Company,AW00000468,Horizon Outlet Center,,Monroe,98272,Michigan,US,United States
+469,Vast Bike Sales and Rental,AW00000469,Lewis County Mall,,Chehalis,98532,Washington,US,United States
+470,Wingtip Toys,AW00000470,755 Columbia Ctr Blvd,,Kennewick,99337,Washington,US,United States
+471,Social Activities Club,AW00000471,23025 S.W. Military Rd.,,San Antonio,78204,Texas,US,United States
+472,Summer Sports Place,AW00000472,Ring Plaza,,Norridge,60706,Illinois,US,United States
+473,Racing Toys,AW00000473,Prime Outlets,,Phoenix,85004,Arizona,US,United States
+474,Retail Cycle Shop,AW00000474,Bayshore Mall,,Eureka,95501,California,US,United States
+475,Real Sporting Goods,AW00000475,7709 West Virginia Avenue,,Phoenix,85004,Arizona,US,United States
+476,Noiseless Gear Company,AW00000476,Peachtree Mall,,Columbus,31901,Georgia,US,United States
+477,Quitting Business Distributors,AW00000477,University Plaza,,Tampa,33602,Florida,US,United States
+478,Major Cycling,AW00000478,46990 Viking Way,,Richmond,V6B 3P7,British Columbia,CA,Canada
+479,General Supplies,AW00000479,9693 Louis H Lafontaine,,Ville De'anjou,J1G 2R3,Quebec,CA,Canada
+480,General Bike Corporation,AW00000480,69251 Creditview Road,,Mississauga,L5B 3V4,Ontario,CA,Canada
+481,Getaway Inn,AW00000481,"54, avenue des Ternes",,Saint Ouen,41100,Loir et Cher,FR,France
+482,"Fabrikam Inc., East",AW00000482,Roßstr 9938,Verkaufsabteilung,Eilenburg,4838,Brandenburg,DE,Germany
+483,Fitness Bike Accessories,AW00000483,Level 7,114 Albert Road,Rhodes,2138,New South Wales,AU,Australia
+484,Downhill Bicycle Specialists,AW00000484,725a The Arches,,Berks,SL4 1RH,England,GB,United Kingdom
+485,Clamps & Brackets Co.,AW00000485,Leesburg Premium Outlet Centre,,Leesburg,20176,Virginia,US,United States
+486,Convenient Bike Shop,AW00000486,Tree Plaza,,Braintree,2184,Massachusetts,US,United States
+487,Bike Experts,AW00000487,Lancaster Mall,,Salem,97301,Oregon,US,United States
+488,Bicycle Accessories and Kits,AW00000488,Lewiston Mall,,Lewiston,83501,Idaho,US,United States
+489,Cash & Carry Bikes,AW00000489,Lakeline Mall,,Cedar Park,78613,Texas,US,United States
+490,Extraordinary Bike Works,AW00000490,Town East Center,,Mesquite,75149,Texas,US,United States
+491,Area Bike Accessories,AW00000491,6900 Sisk Road,,Modesto,95354,California,US,United States
+492,Basic Sports Equipment,AW00000492,3250 Baldwin Park Blvd,,Baldwin Park,91706,California,US,United States
+493,Valley Bicycle Distributors,AW00000493,5867 Sunrise Boulevard,,Citrus Heights,95610,California,US,United States
+494,Worthwhile Activity Store,AW00000494,Flagler Park Plaza,,Miami,33127,Florida,US,United States
+495,Tough and Reliable Parts,AW00000495,Market Square Shopping Center,,Lakeland,33801,Florida,US,United States
+496,Top Sports Supply,AW00000496,251420a 170th Street,,Edmonton,T5,Alberta,CA,Canada
+497,Valley Toy Store,AW00000497,252851 Rowan Place,,Richmond,V6B 3P7,British Columbia,CA,Canada
+498,Quick Delivery Service,AW00000498,5990 Avebury Road,,Mississauga,L5B 3V4,Ontario,CA,Canada
+499,Racing Sales and Service,AW00000499,"510, avenue de Villiers",,Orleans,45000,Loiret,FR,France
+500,Irregulars Outlet,AW00000500,Pappelallee 19,,Dresden,1071,Hessen,DE,Germany
+501,Jumbo Bikes,AW00000501,254a James Street Botany,,Malabar,2036,New South Wales,AU,Australia
+502,Metropolitan Bicycle Supply,AW00000502,Paramount House,,London,W1N 9FA,England,GB,United Kingdom
+503,Metropolitan Sales and Rental,AW00000503,Granite State Marketplace,,Hooksett,3106,New Hampshire,US,United States
+504,Historic Bicycle Sales,AW00000504,Redford Plaza,,Redford,48239,Michigan,US,United States
+505,Honest Repair Service,AW00000505,Three Rivers Mall,,Kelso,98626,Washington,US,United States
+506,Great Bikes ,AW00000506,Eastridge Mall,,Casper,82601,Wyoming,US,United States
+507,Global Sporting Goods,AW00000507,Fountains On The Lake,,Stafford,77477,Texas,US,United States
+508,Designer Department Stores,AW00000508,Southwest Outlet,,Hillsboro,76645,Texas,US,United States
+509,Fun Toys and Bikes,AW00000509,6500 East Grant Road,,Tucson,85701,Arizona,US,United States
+510,World Bike Discount Store,AW00000510,3065 Santa Margarita Parkway,,Trabuco Canyon,92679,California,US,United States
+511,Wheel Gallery,AW00000511,9920 Bridgepointe Parkway,,San Mateo,94404,California,US,United States
+512,Tiny Bike Boutique,AW00000512,Fsa Outlet Center,,Nashville,37203,Tennessee,US,United States
+513,Village Tours,AW00000513,Newport Shopping Center,,Newport,41071,Kentucky,US,United States
+514,Retail Mall,AW00000514,254480 River Rd,,Richmond,V6B 3P7,British Columbia,CA,Canada
+515,Rural Bicycle Supply,AW00000515,Suite #9902,,North York,M4C 4K6,Ontario,CA,Canada
+516,Seats and Saddles Company,AW00000516,"5th Floor, 79 Place D'armes",,Kingston,7L,Ontario,CA,Canada
+517,Racing Store,AW00000517,"30, avenue de l´ Union Centrale",,Les Ulis,91940,Essonne,FR,France
+518,Regional Cycle Shop,AW00000518,Karl Liebknecht str 399,Leiter der Abteilung,Berlin,14111,Hessen,DE,Germany
+519,List Price Catalog Company,AW00000519,Level 25,96 Lytton Rd.,Melbourne,3000,Victoria,AU,Australia
+520,Metro Metals Co.,AW00000520,2524 Barlby Road,,London,W10 6BL,England,GB,United Kingdom
+521,Mobile Outlet,AW00000521,Walnut Hill Plaza,,Woonsocket,2895,Rhode Island,US,United States
+522,Small Bike Accessories Shop,AW00000522,Consumer Square,,Cheektowaga,14227,New York,US,United States
+523,Futuristic Sport Distributors,AW00000523,5525 South Hover Road,,Longmont,80501,Colorado,US,United States
+524,Chain and Chain Tool Distributions,AW00000524,Factory Stores Of America,,Smithfield,27577,North Carolina,US,United States
+525,Cycles and Scooters,AW00000525,Peach Festival Outlet,,Byron,31008,Georgia,US,United States
+526,Finer Sales and Service,AW00000526,#500-75 O'Connor Street,,Ottawa,K4B 1S2,Ontario,CA,Canada
+527,Fun Times Club,AW00000527,8525 South Parker Road,,Parker,80138,Colorado,US,United States
+528,Alpine Ski House,AW00000528,7505 Laguna Boulevard,,Elk Grove,95624,California,US,United States
+529,Big-Time Bike Store,AW00000529,9909 W. Ventura Boulevard,,Camarillo,93010,California,US,United States
+530,Valuable Bike Parts Company,AW00000530,Belz Factory Outlet,,Orlando,32804,Florida,US,United States
+531,Sunny Place Bikes,AW00000531,Horizon Outlet Center,,Vero Beach,32960,Florida,US,United States
+532,The Showroom,AW00000532,4400 March Road,,Kanata,K2L 1H5,Ontario,CA,Canada
+533,Tenth Bike Store,AW00000533,Depot 80,,Sillery,G1T,Quebec,CA,Canada
+534,Recommended Bicycles,AW00000534,250 Kingsbridge Garden Circle,,Mississauga,L5B 3V4,Ontario,CA,Canada
+535,Spa and Exercise Outfitters,AW00000535,"33, rue Georges-Clémenceau",,Cergy,95000,Val d'Oise,FR,France
+536,Next Door Cycles,AW00000536,Brunnenstr 9511,,Berlin,14197,Saarland,DE,Germany
+537,Preferable Bikes,AW00000537,Level 25,538 Climbing Street,Rhodes,2138,New South Wales,AU,Australia
+538,Prosperous Tours,AW00000538,99-3 Forest Works,,London,E17 6JF,England,GB,United Kingdom
+539,Glossy Bikes,AW00000539,Adirondack Factory Outlet,,Lake George,12845,New York,US,United States
+540,Guaranteed Sales and Service,AW00000540,Buckeye Factory Shops,,Burbank,44214,Ohio,US,United States
+541,Nonskid Tire Company,AW00000541,Holiday Village Mall,,Great Falls,59401,Montana,US,United States
+542,Finer Parts Shop,AW00000542,2526a Tri-Lake Blvd Ne,,Kirkland,98033,Washington,US,United States
+543,Friendly Neighborhood Bikes,AW00000543,Johnson Creek,,Johnson Creek,53038,Wisconsin,US,United States
+544,Valley Bicycle Specialists,AW00000544,Blue Ridge Mall,,Kansas City,64106,Missouri,US,United States
+545,Finish and Sealant Products,AW00000545,25150 El Camino Real,,San Bruno,94066,California,US,United States
+546,Field Trip Store,AW00000546,2575 Rocky Mountain Ave.,,Loveland,80537,Colorado,US,United States
+547,Curbside Sporting Goods,AW00000547,25871 North Main Street,,Walnut Creek,94596,California,US,United States
+548,New Bikes Company,AW00000548,Hilton Head Factory Outlets No. 25,,Bluffton,29910,South Carolina,US,United States
+549,Daring Rides,AW00000549,Bay Area Outlet Mall,,Clearwater,33755,Florida,US,United States
+550,Remote Bicycle Specialists,AW00000550,No. 2000-25080 Beaver Hall Hill,,Quebec,G1R,Quebec,CA,Canada
+551,Vinyl and Plastic Goods Corporation,AW00000551,No. 25800-130 King Street West,,Toronto,M4B 1V5,Ontario,CA,Canada
+552,Consolidated Messenger,AW00000552,25 Danger Street West,Floor 7,Toronto,M4B 1V5,Ontario,CA,Canada
+553,Accessories Network,AW00000553,"699bis, rue des Peupliers",,Paris,75008,Seine (Paris),FR,France
+554,Top of the Line Bikes,AW00000554,Knaackstr 7,,Paderborn,33041,Hamburg,DE,Germany
+555,Twin Cycles,AW00000555,2253-217 Palmer Street,,Darlinghurst,2010,New South Wales,AU,Australia
+556,Variety Cycling,AW00000556,46-44 Albemarle Street,,London,W1X3SE,England,GB,United Kingdom
+557,Purchase Mart,AW00000557,Wrentham Village,,Wrentham,2093,Massachusetts,US,United States
+558,Retail Sales and Service,AW00000558,Lake Region Factory Outlet,,Tilton,3276,New Hampshire,US,United States
+559,Some Discount Store,AW00000559,Frontier Mall,,Cheyenne,82001,Wyoming,US,United States
+560,Major Sport Suppliers,AW00000560,White Mountain Mall,,Rock Springs,82901,Wyoming,US,United States
+561,Mountain Toy Store,AW00000561,First Colony Mall,,Sugar Land,77478,Texas,US,United States
+562,Practical Bike Supply Company,AW00000562,Horizon Outlet,,Woodbury,55125,Minnesota,US,United States
+563,Systematic Sales,AW00000563,2551 East Warner Road,,Gilbert,85233,Arizona,US,United States
+564,Imported and Domestic Cycles,AW00000564,22589 West Craig Road,,North Las Vegas,89030,Nevada,US,United States
+565,Metallic Paint and Overcoat Co,AW00000565,25751 University Drive,,Vista,92084,California,US,United States
+566,eCommerce Bikes,AW00000566,Gulfport Factory Shops,,Gulfport,39501,Mississippi,US,United States
+567,Global Plaza,AW00000567,Belz Factory Outlet,,Pigeon Forge,37863,Tennessee,US,United States
+568,Economy Center,AW00000568,"6th Floor, 25st Canadian Place",,Toronto,M4B 1V5,Ontario,CA,Canada
+569,Designated Distributors,AW00000569,254 Colonnade Road,,Nepean,K2J 2W5,Ontario,CA,Canada
+570,Family's Favorite Bike Shop,AW00000570,26910 Indela Road,,Montreal,H1Y 2H5,Quebec,CA,Canada
+571,Community Department Stores,AW00000571,"3639, rue des Grands Champs",,Boulogne-sur-Mer,62200,Pas de Calais,FR,France
+572,Versatile Sporting Goods Company,AW00000572,Alderstr 1849,,Braunschweig,38001,Nordrhein-Westfalen,DE,Germany
+573,Nationwide Supply,AW00000573,4250 Concord Road,,Rhodes,2138,New South Wales,AU,Australia
+574,Area Sheet Metal Supply,AW00000574,399 Clearing Green,,London,EC1R 0DU,England,GB,United Kingdom
+575,Bicycle Outfitters,AW00000575,Cherry Grove Plaza,,Cincinnati,45202,Ohio,US,United States
+576,The Bike Mechanics,AW00000576,Johnny Appleseed Shop.center,,Mansfield,44903,Ohio,US,United States
+577,Synthetic Materials Manufacturing,AW00000577,3390 South 23rd St.,,Tacoma,98403,Washington,US,United States
+578,The Bike Shop,AW00000578,3250 South Meridian,,Puyallup,98371,Washington,US,United States
+579,Riders Company,AW00000579,Tanger Factory,,Branch,55056,Minnesota,US,United States
+580,Rural Sales and Service,AW00000580,Management Mall,,San Antonio,78204,Texas,US,United States
+581,Safe Toys,AW00000581,49925 Crestview Drive N.E.,,Rio Rancho,87124,New Mexico,US,United States
+582,Professional Sales and Service,AW00000582,57251 Serene Blvd,,Van Nuys,91411,California,US,United States
+583,Professional Containers and Packaging Co.,AW00000583,253731 West Bell Road,,Surprise,85374,Arizona,US,United States
+584,Qualified Sales and Repair Services,AW00000584,Savannah Festival Outlet,,Savannah,31401,Georgia,US,United States
+585,Next-Door Bike Store,AW00000585,Mall Of Memphis,,Memphis,38103,Tennessee,US,United States
+586,One Bike Company,AW00000586,5 place Ville-Marie,,Montreal,H1Y 2H7,Quebec,CA,Canada
+587,Our Sporting Goods Store,AW00000587,6030 Conroy Road,,Ottawa,K4B 1S3,Ontario,CA,Canada
+588,General Cycle Storehouse,AW00000588,"30025 Wayburne Drive, Suite 275",,Burnaby,V5G 4W1,British Columbia,CA,Canada
+589,Hiatus Bike Tours,AW00000589,"3833, boulevard Beau Marchais",,Paris,75009,Seine (Paris),FR,France
+590,Lustrous Paints and Components,AW00000590,Kurfürstenstr 74,,Poing,66041,Saarland,DE,Germany
+591,Fitness Discount Store,AW00000591,Level 992,56 Pitt Street,Melbourne,3000,Victoria,AU,Australia
+592,Cycling Goods,AW00000592,997b Tradescant Road,,London,SW8 1XD,England,GB,United Kingdom
+593,Expert Sports Store,AW00000593,Spring Meadows Place,,Holland,43528,Ohio,US,United States
+594,Casual Bicycle Store,AW00000594,Westside Plaza,,Nashua,3064,New Hampshire,US,United States
+595,Cycle Clearance,AW00000595,2255 254th Avenue Se,,Albany,97321,Oregon,US,United States
+596,Coho Sports,AW00000596,705 SE Mall Parkway,,Everett,98201,Washington,US,United States
+597,All Seasons Sports Supply,AW00000597,Ohms Road,,Houston,77003,Texas,US,United States
+598,Black Bicycle Company,AW00000598,Factory Merchants,,Branson,65616,Missouri,US,United States
+599,Westside Plaza,AW00000599,99040 California Avenue,,Sand City,93955,California,US,United States
+600,Strenuous Exercise Shop,AW00000600,25620 Firestone Boulevard,,Norwalk,90650,California,US,United States
+601,Transport Bikes,AW00000601,25130 South State Street,,Sandy,84070,Utah,US,United States
+602,Ultimate Bike Shop,AW00000602,Foothills Mall,,Maryville,37801,Tennessee,US,United States
+603,Retail Toy Store,AW00000603,"Dadeland Mall, Space 25090",,Miami,33127,Florida,US,United States
+604,Sellers of Cycles,AW00000604,700 Se Sunnyside Road,,Clackamas,97015,Oregon,US,United States
+605,Outstanding Cycles,AW00000605,North 93270 Newport Highway,,Spokane,99202,Washington,US,United States
+606,Little Bicycle Supply Shop,AW00000606,Cedar Creek Stores,,Mosinee,54455,Wisconsin,US,United States
+607,Maintenance and Repair for Bicycles,AW00000607,Lone Star Factory,,La Marque,77568,Texas,US,United States
+608,Golf and Cycle Store,AW00000608,5500 Grossmont Center Drive,,La Mesa,91941,California,US,United States
+609,Good Toys,AW00000609,99700 Bell Road,,Auburn,95603,California,US,United States
+610,Fitness Department Stores,AW00000610,7750 E Marching Rd,,Scottsdale,85257,Arizona,US,United States
+611,Front Runner Bikes,AW00000611,DeSouth Square,,Bradenton,34205,Florida,US,United States
+612,General Associates,AW00000612,32525 Hollywood Blvd.,,Hollywood,33021,Florida,US,United States
+613,Famous Bike Shop,AW00000613,999 West Georgia St.,,Vancouver,V5T 1Y9,Ontario,CA,Canada
+614,Favorite Toy Distributor,AW00000614,"1, place de la République",,Paris,75017,Seine (Paris),FR,France
+615,Fast Services,AW00000615,Königsteiner Straße 449,,Leipzig,4139,Nordrhein-Westfalen,DE,Germany
+616,Eastward Bike Accessories,AW00000616,Level 7,201 Sussex Street,Matraville,2036,New South Wales,AU,Australia
+617,Tubeless Tire Company,AW00000617,2574 Milton Park,,Oxford,OX14 4SE,England,GB,United Kingdom
+618,Seventh Bike Store,AW00000618,Stateline Plaza,,Plaistow,3865,New Hampshire,US,United States
+619,Strong Metal Manufacturing,AW00000619,Pyramid Mall,,Ithaca,14850,New York,US,United States
+620,Tires and Tubes,AW00000620,25708 Dell Range Blvd.,,Cheyenne,82001,Wyoming,US,United States
+621,Running and Cycling Gear,AW00000621,No. 60 Bellis Fair Parkway,,Bellingham,98225,Washington,US,United States
+622,Gift and Toy Store,AW00000622,Sports Stores @ Tuscola,,Tuscola,61953,Illinois,US,United States
+623,Hardware Components,AW00000623,99 Front Street,,Minneapolis,55402,Minnesota,US,United States
+624,First Cycle Store,AW00000624,25250 N 90th St,,Scottsdale,85257,Arizona,US,United States
+625,Major Sporting Goods,AW00000625,9980 S Alma School Road,,Chandler,85225,Arizona,US,United States
+626,Retail Sporting Goods,AW00000626,6753 Howard Hughes Parkway,,Las Vegas,89106,Nevada,US,United States
+627,Exchange Parts Inc.,AW00000627,7700 Green Road,,Raleigh,27603,North Carolina,US,United States
+628,Executive Discount Store,AW00000628,20500 S.W. 2512th Ave,,Miami,33127,Florida,US,United States
+629,Efficient Cycling,AW00000629,"250333 Southport Road, S.W.",,Calgary,T2P 2G8,Alberta,CA,Canada
+630,Eastside Parts Shop,AW00000630,7000 Victoria Park Avenue,,Toronto,M4B 1V4,Ontario,CA,Canada
+631,Tandem Sales and Service,AW00000631,63 Free St.,,Toronto,M4B 1V4,Ontario,CA,Canada
+632,Ultimate Bicycle Company,AW00000632,"12, rue Lafayette",,Morangis,91420,Essonne,FR,France
+633,Rustic Bike Store,AW00000633,Buergermeister-ulrich-str 3000,Buchhaltung,Augsburg,86150,Bayern,DE,Germany
+634,Sensible Sports,AW00000634,Level 5,157 Liverpool Street,Rhodes,2138,New South Wales,AU,Australia
+635,Sports Store,AW00000635,"Internet House, 3399 Science Park",,Cambridge,CB4 4BZ,England,GB,United Kingdom
+636,Recreation Systems,AW00000636,Logansport Mall,,Logansport,46947,Indiana,US,United States
+637,Reliable Retail Center,AW00000637,609 Evans Avenue,,Toronto,M4B 1V4,Ontario,CA,Canada
+638,Metropolitan Equipment,AW00000638,"88, avenue de l´ Union Centrale",,Paris,75012,Seine (Paris),FR,France
+639,Producer Goods Clearinghouse,AW00000639,Postfach 55 00 00,,Frankfurt,91480,Bayern,DE,Germany
+640,Liquidation Sales,AW00000640,No. 6,Millenium Court,Perth,6006,South Australia,AU,Australia
+641,Extended Tours,AW00000641,"7 Garden House Cloisters, 8 Batters",,London,SW8 4BG,England,GB,United Kingdom
+642,Fitness Sport Boutique,AW00000642,Dansk Square,,Kittery,3904,Maine,US,United States
+643,Friendly Bike Shop,AW00000643,Port Huron,,Port Huron,48060,Michigan,US,United States
+644,Convenient Sales and Service,AW00000644,950 Gateway Street,,Springfield,97477,Oregon,US,United States
+645,Superior Hardware Distributors,AW00000645,250775 SW Hillsdale Hwy,,Beaverton,97005,Oregon,US,United States
+646,Yellow Bicycle Company,AW00000646,St. Louis Marketplace,,Saint Louis,63103,Missouri,US,United States
+647,Solid Bike Parts,AW00000647,Lincoln Square,,Arlington,76010,Texas,US,United States
+648,Small Bike Shop,AW00000648,Corp Ofc Accts Payable,,El Segundo,90245,California,US,United States
+649,Sports Products Store,AW00000649,Po Box 252525,,Santa Ana,92701,California,US,United States
+650,Permanent Finish Products,AW00000650,62500 Neil Road,,Reno,89502,Nevada,US,United States
+651,Retread Tire Company,AW00000651,9935 Robert C Daniel Jr Parkway,,Augusta,30901,Georgia,US,United States
+652,Selected Distributors,AW00000652,99535 Dallas Highway,,Marietta,30060,Georgia,US,United States
+653,Mercantile Outlet,AW00000653,2520 Flanders Road,,Toronto,M4B 1V4,Ontario,CA,Canada
+654,Online Bike Warehouse,AW00000654,"32605 West 252 Mile Road, Suite 250",,Aurora,L4G 7N6,Ontario,CA,Canada
+655,Operational Manufacturing,AW00000655,"25730, boul. St-Régis",,Dorval,H9P 1H1,Quebec,CA,Canada
+656,Impervious Paint Company,AW00000656,"3383, rue Lamarck",,Paris,75007,Seine (Paris),FR,France
+657,Links Works,AW00000657,Helsenbergbogen 6,,Ascheim,86171,Hamburg,DE,Germany
+658,Mass Market Bikes,AW00000658,Level 59,,Alexandria,2015,New South Wales,AU,Australia
+659,Shipping Specialists,AW00000659,"25 Hartfield Road, Wimbledon",,London,SW19 3RU,England,GB,United Kingdom
+660,Exhilarating Cycles,AW00000660,Kensington Valley Shops,,Howell,48843,Michigan,US,United States
+661,General Department Stores,AW00000661,"253131 Lake Frasier Drive, Office No. 2",,Calgary,T2P 2G8,Alberta,CA,Canada
+662,Finer Sporting Goods,AW00000662,"28, avenue des Champs-Elysées",,Croix,59170,Nord,FR,France
+663,Capital Riding Supplies,AW00000663,Buergermeister-ulrich-str 9500,,Augsburg,86171,Hamburg,DE,Germany
+664,Eastside Cycle Shop,AW00000664,45671 Queens Road Ct.,,Melbourne,3000,Victoria,AU,Australia
+665,Authentic Sales and Service,AW00000665,"99 Dean Street, Soho",,London,W1V 5RN,England,GB,United Kingdom
+666,Bike Boutique,AW00000666,Polaris Town Center,,Columbus,43215,Ohio,US,United States
+667,Traditional Department Stores,AW00000667,Green Acres Mall,,Valley Stream,11580,New York,US,United States
+668,Official Parts Shop,AW00000668,9905 Three Rivers Drive,,Kelso,98626,Washington,US,United States
+669,Racing Bike Outlet,AW00000669,225 South 314th Street,,Federal Way,98003,Washington,US,United States
+670,First Bike Store,AW00000670,Kansas City Factory Outlet,,Odessa,64076,Missouri,US,United States
+671,"Contoso, Ltd.",AW00000671,Fiesta Trail Shopping Center,,San Antonio,78204,Texas,US,United States
+672,Utilitarian Sporting Goods,AW00000672,4635 S. Harrison Blvd.,,Ogden,84401,Utah,US,United States
+673,Countryside Company,AW00000673,825 W 500 S,,Bountiful,84010,Utah,US,United States
+674,Discount Tours,AW00000674,603 Gellert Blvd,,Daly City,94015,California,US,United States
+675,Bike Goods ,AW00000675,254075 Biscayne Blvd.,,North Miami Beach,33162,Florida,US,United States
+676,Better Bike Shop,AW00000676,42525 Austell Road,,Austell,30106,Georgia,US,United States
+677,Tire Exchange,AW00000677,9984 Wellington Street,,Ottawa,K4B 1S2,Ontario,CA,Canada
+678,Vigorous Exercise Company,AW00000678,"9950 Ferrand Drive, 9th Floor",,Toronto,M4B 1V4,Ontario,CA,Canada
+679,Superb Sales and Repair,AW00000679,990th Floor 700 De La GauchetiSre Ou,,Montreal,H1Y 2H3,Quebec,CA,Canada
+680,Racing Tours,AW00000680,"21, avenue de la Gare",,Sèvres,92310,Hauts de Seine,FR,France
+681,Showcase for Cycles,AW00000681,Erftplatz 22,,Sulzbach Taunus,66272,Saarland,DE,Germany
+682,Popular Bike Lines,AW00000682,Level 7,80 Arthur Street,Newcastle,2300,New South Wales,AU,Australia
+683,Oils and Fluids Warehouse,AW00000683,"Park House-4th Floor, 2516 Park St.",,London,W1Y 3RA,England,GB,United Kingdom
+684,Lease-a-Bike Shop,AW00000684,Connecticut Post Mall,,Milford,6460,Connecticut,US,United States
+685,Family Cycle Store,AW00000685,"660 Saint-Jacques, Bureau 400",,Montreal,H1Y 2H8,Quebec,CA,Canada
+686,Finished Parts Shop,AW00000686,"62, route de Marseille",,Suresnes,92150,Hauts de Seine,FR,France
+687,Functional Store South,AW00000687,Viktoria-Luise-Platz 475,,München,80074,Nordrhein-Westfalen,DE,Germany
+688,Bike Part Wholesalers,AW00000688,254a Baker Street,Botany,Sydney,1002,New South Wales,AU,Australia
+689,Consumer Equipment,AW00000689,"67 Vincent Square, Victoria",,London,SW1P 2NU,England,GB,United Kingdom
+690,Active Cycling,AW00000690,Indian Mound Mall,,Heath,43056,Ohio,US,United States
+691,Mountain Bike Store,AW00000691,Amity Plaza,,New Haven,6510,Connecticut,US,United States
+692,Successful Sales Company,AW00000692,7009 Sw Hall Blvd.,,Tigard,97223,Oregon,US,United States
+693,Stock Parts and Supplies,AW00000693,99295 S.e. Tualatin Valley_hwy.,,Hillsboro,97123,Oregon,US,United States
+694,The Accessories Store,AW00000694,Medford Outlet Center,,Medford,55049,Minnesota,US,United States
+695,Responsible Bike Dealers,AW00000695,Ward Parkway Center,,Kansas City,64106,Missouri,US,United States
+696,Roadway Supplies,AW00000696,2564 S. Redwood Rd.,,Riverton,84065,Utah,US,United States
+697,Brakes and Gears,AW00000697,9927 N. Main St.,,Tooele,84074,Utah,US,United States
+698,Western Bike Supplies,AW00000698,566 S. Main,,Cedar City,84720,Utah,US,United States
+699,Sensational Discount Store,AW00000699,6333 Cloverleaf Parkway,,Kannapolis,28081,North Carolina,US,United States
+700,Underglaze and Finish Company,AW00000700,8520 University City Blvd,,Charlotte,28202,North Carolina,US,United States
+701,Future Bikes,AW00000701,"67255 - 8th Street N.E., Suite 350",,Calgary,T2P 2G8,Alberta,CA,Canada
