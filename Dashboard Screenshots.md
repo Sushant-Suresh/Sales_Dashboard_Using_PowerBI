@@ -1,6 +1,6 @@
 ## Sales Dashboard
-![Screenshot 2024-10-07 225809](https://github.com/user-attachments/assets/c7684185-f71e-422b-8efa-8f795831423d)
+![Main](https://github.com/user-attachments/assets/fdbff1cf-426a-46f5-83d2-97360e7566df)
 ## Sales Dashboard with United States Data from 2019-2020
-![Screenshot 2024-10-07 225843](https://github.com/user-attachments/assets/244f03ed-0b15-4a7b-a311-9d82a2f273aa)
+![US_19-20](https://github.com/user-attachments/assets/ecd4b834-8b23-4c84-ab2b-b3e283e80b58)
 ## Sales Dashboard with United States & Canada Data from 2019-2020
-![Screenshot 2024-10-07 225912](https://github.com/user-attachments/assets/ba378569-4462-4b97-ac0e-a37bbf1dff33)
+![US_CAN_19-20](https://github.com/user-attachments/assets/ee88517b-0021-4494-bd38-693a683a932b)
