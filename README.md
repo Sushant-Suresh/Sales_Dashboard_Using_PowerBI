@@ -4,7 +4,7 @@
 
 This repository contains a comprehensive sales analysis using Power BI. The project includes a single page dashboard with insights into revenue generated in each fiscal year, region wise revenue distribution, revenue via different product categories and a fiscal month wise sales summary.
 
-![Screenshot 2024-10-07 225809](https://github.com/user-attachments/assets/c7684185-f71e-422b-8efa-8f795831423d)
+![Main](https://github.com/user-attachments/assets/fdbff1cf-426a-46f5-83d2-97360e7566df)
 
 [PowerBI File Download Link](https://github.com/Sushant-Suresh/Sales_Dashboard_Using_PowerBI/blob/main/sales_dashboard_2018-2020.pbix)
 
